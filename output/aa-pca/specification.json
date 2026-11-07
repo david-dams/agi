@@ -1,0 +1,39 @@
+{
+  "draws": 2000,
+  "seed": 20261027,
+  "cohorts": [
+    "2025H1",
+    "2025H2",
+    "2026H1"
+  ],
+  "batteries": {
+    "nine": [
+      "gpqa",
+      "hle",
+      "omniscience",
+      "tau2",
+      "ifbench",
+      "lcr",
+      "scicode",
+      "critpt",
+      "terminalbenchHard"
+    ],
+    "eight": [
+      "gpqa",
+      "hle",
+      "omniscience",
+      "tau2",
+      "ifbench",
+      "lcr",
+      "scicode",
+      "terminalbenchHard"
+    ]
+  },
+  "scaling": "one pooled mean and sample SD across all 387 complete configurations, frozen for all cases and bootstrap draws",
+  "centering": "within each cohort, including within bootstrap draws; covariance PCA, not uncentered second moments",
+  "direction": "unit PC1 eigenvector in common pooled units; covariance loadings differ only by scalar sqrt(eigenvalue)",
+  "sign": "align bootstrap direction to its cohort estimate; compare sign-invariant axes",
+  "bootstrap": "matched global named-base cluster draws; SeedSequence(seed, spawn_key=(0, replicate)) matches invariance study",
+  "admissibility": ">=3 rows, finite nonzero total variance, PC1-PC2 gap > 1e-8 times PC1; no full-rank requirement; intervals withheld below 90%",
+  "interpretation": "descriptive directional similarity, not a latent-construct identity, equivalence or CFA invariance test"
+}

@@ -1,0 +1,21 @@
+{
+  "tests": 36,
+  "failures": 0,
+  "attempted_bootstrap_draws": 2000,
+  "attempted_null_draws": 500,
+  "paired_case_status_counts": {
+    "bootstrap": {
+      "ok": 5990,
+      "boundary": 2010
+    },
+    "null": {
+      "ok": 1532,
+      "boundary": 468
+    }
+  },
+  "scipy": "1.18.1",
+  "report_code_sha256": "81af5ae114b561a7bcfc02e684915cadad46e49ed70fb7b9ccbbbbdf11f6df7d",
+  "tests_sha256": "2652635d93b059de3ff4fb8bde56a8456c825ee1b247df8572e3801ed069dc45",
+  "checks": "source/analysis hashes, full draw counts, finite distributions and status counts verified; plots rendered without refitting",
+  "numerical_correction": "all draws repeated using Cholesky likelihood, covariance-domain checks and projected-gradient screening"
+}

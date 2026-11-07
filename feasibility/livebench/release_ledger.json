@@ -1,0 +1,132 @@
+[
+  {
+    "as_published_snapshot": "not established; dated exports may be revised",
+    "changelog": "Introducing **LiveBench**: a benchmark for LLMs designed with test set contamination and objective evaluation in mind\n\nLiveBench has the following properties:\n\n - LiveBench is designed to limit potential contamination by releasing new questions monthly, as well as having questions based on recently-released datasets, arXiv papers, news articles, and IMDb movie synopses.\n - Each question has verifiable, objective ground-truth answers, allowing hard questions to be scored accurately and automatically, without the use of an LLM judge.\n - LiveBench currently contains a set of 17 diverse tasks across 6 categories, and we will release new, harder tasks over time.\n\nToday, we release the initial batch of 960 questions and plan to release sets of questions every month. By doing this, we aim for LiveBench to be free from contamination, since every release will have novel questions.\n\n\nIn addition to contamination, LiveBench avoids the pitfalls of LLM judging by including only questions that have an objective answer. While LLM judging and crowdsourced prompts and evaluations have many benefits, they also introduce significant biases and completely break down when judging the answers to hard questions. For example, we show in our paper that for challenging reasoning and math problems, the pass/fail judgments from GPT-4-Turbo have an error rate of up to 46%.\n\n![changelog-img](assets/livebench-2024-09-30.png)\n\nLiveBench currently evaluates several prominent closed-source models and dozens of open-weight models ranging from 0.5B to 70B in size. LiveBench questions are difficult; for example, GPT-4-Turbo achieves around 50% accuracy on LiveBench overall. Furthermore, in our monthly updates, we will release new tasks and harder versions of tasks over time so that LiveBench can distinguish between the capabilities of LLMs as they improve in the future.\n\nWe release all questions, code, and model answers, and we welcome community engagement and collaboration for expanding the benchmark tasks and models.",
+    "published_export": null,
+    "release": "2024-06-12",
+    "retrospective_questions": 0,
+    "task_name_match": null,
+    "tasks_missing_from_export": [],
+    "tasks_missing_from_questions": []
+  },
+  {
+    "as_published_snapshot": "not established; dated exports may be revised",
+    "changelog": "Removed house traversal task. We discovered ambiguity in the parsing of the answers, and upon fixing it, some models achieved 100% on the task. This made it unsuitable for LiveBench, which aims to only include tasks that are very challenging for even the current best LLMs.",
+    "published_export": null,
+    "release": "2024-06-24",
+    "retrospective_questions": 910,
+    "task_name_match": null,
+    "tasks_missing_from_export": [],
+    "tasks_missing_from_questions": []
+  },
+  {
+    "as_published_snapshot": "not established; dated exports may be revised",
+    "changelog": "This update included new questions for the coding completion and LCB generation tasks. It also introduced a new spatial reasoning task that judges models' ability to reason about 2D and 3D shapes. Examples of questions from this task can be seen below:\n\n > Suppose I have a physical, solid square with vertices ABCD, and I make two cuts through AC and BD. Of the resulting pieces, how many triangles are there?  Think step by step, and then put your answer in **bold** as a single integer (for example, **0**). If you don't know, guess.\n\n > Suppose I have three solid spheres of radius 5 resting on a plane. Each sphere is tangent to the other two spheres. Now I add a fourth solid sphere of radius 6 in such a way that maximizes the number of tangent points among all pairs of spheres. If I consider a new shape whose vertices are exactly the centers of the four spheres, what is this new shape? Is it a square, tetrahedron, circle, triangle, rectangle, sphere, rhombus, or rectangular pyramid? Think step by step, and then put your answer in **bold** as a single phrase (for example, **sphere**). If you don't know, guess.\n\nWe found this task to be very difficult for LLMs and a good indicator of reasoning capabilities.\nThis brought the total number of questions to 1000, and all future updates add and remove the same number, to stay at 1000 total questions.",
+    "published_export": null,
+    "release": "2024-07-26",
+    "retrospective_questions": 1000,
+    "task_name_match": null,
+    "tasks_missing_from_export": [],
+    "tasks_missing_from_questions": []
+  },
+  {
+    "as_published_snapshot": "not established; dated exports may be revised",
+    "changelog": "This update focused on refreshing question sources for all three math tasks. \n - A portion of the questions for AMPS_Hard were updated, to increase the difficulty, add new types of questions, and to remove previous ambiguity in the questions.\n - All olympiad questions were fully updated to use IMO 2024 and USAMO 2024 questions as the source, replacing the IMO/USAMO 2023 questions. These questions were also made harder.\n - All 50 AMC 2023 problems were updated to rearrange the multiple choice answer order, and to update the prose and proper nouns in the questions.",
+    "published_export": null,
+    "release": "2024-08-31",
+    "retrospective_questions": 1000,
+    "task_name_match": null,
+    "tasks_missing_from_export": [],
+    "tasks_missing_from_questions": []
+  },
+  {
+    "as_published_snapshot": "not established; dated exports may be revised",
+    "changelog": "This update focused on refreshing questions to check for contamination and increasing the difficulty of tasks for which o1 (and other reasoning models) achieved very high scores.\n - Refreshed the instruction following tasks with new articles from The Guardian\n - Updated IF question generation to include 3 instructions per task on average (previously 2)\n - Refreshed Connections task with new puzzles from NYT\n - Updated Connections generation to more frequently ask for more groups\n - Regenerated Zebra Puzzles, skewing towards larger board sizes and more complex constraints\n - Updated Connections and Zebra Puzzles questions to require answers to be in `<solution></solution>` tags rather than bolded",
+    "published_export": null,
+    "release": "2024-11-25",
+    "retrospective_questions": 1000,
+    "task_name_match": null,
+    "tasks_missing_from_export": [],
+    "tasks_missing_from_questions": []
+  },
+  {
+    "as_published_snapshot": "not established; dated exports may be revised",
+    "changelog": "- Refreshed coding questions (coding_completion and LCB_generation) with *much* newer questions from LiveCodeBench. The previous questions were likely heavily contaminated for newer models. LiveCodeBench also increases question difficulty over time.\n - Refreshed typos and plot_unscrambling questions with newer ArXiv papers and movie plots from Wikipedia, respectively. Issues in the typos question generation script were also fixed, so that all questions can be fairly evaluated\n - Replaced 2023 AMC questions with 2024 AMC questions in math_comp\n - Updated web_of_lies with a mix of harder questions of the previous web_of_lies_v2 format and the new format from [BIG-Bench Extra Hard](https://github.com/google-deepmind/bbeh)\n - All new questions ask for answers in the `<solution></solution>` format.",
+    "published_export": null,
+    "release": "2025-04-02",
+    "retrospective_questions": 682,
+    "task_name_match": null,
+    "tasks_missing_from_export": [],
+    "tasks_missing_from_questions": []
+  },
+  {
+    "as_published_snapshot": "not established; dated exports may be revised",
+    "changelog": "- Completely new coding questions focused on evaluating usage of real-world libraries in realistic scenarios. Questions are no longer sourced from LiveCodeBench. The tasks themselves are the same; we still have a full code generation task and a code completion task.\n - Refeshed data analysis tasks, specifically for the tablejoin and tablereformat tasks. The cta task has been retired.",
+    "published_export": null,
+    "release": "2025-04-25",
+    "retrospective_questions": 682,
+    "task_name_match": null,
+    "tasks_missing_from_export": [],
+    "tasks_missing_from_questions": []
+  },
+  {
+    "as_published_snapshot": "not established; dated exports may be revised",
+    "changelog": "This update introduces a new agentic coding category, where models must operate in a multi-turn, realistic development environment to resolve issues from real Github repositories. It contains Python, JavaScript, and TypeScript tasks, and we plan to add more tasks and languages in the future. Inference is performed using the [SWE-Agent](https://swe-agent.com) framework, and evaluation uses the [Multi-SWE-Bench](https://multi-swe-bench.github.io/#/) harness. This task provides the most realistic possible evaluation of LLM coding capabilities and prediction of which will be most useful for developers.\n\nNote: SWE-Agent was run with a 50-step limit for all models during this evaluation. In some cases, it's likely that scores would have improved were models given more time to complete the tasks.",
+    "published_export": null,
+    "release": "2025-05-30",
+    "retrospective_questions": 682,
+    "task_name_match": null,
+    "tasks_missing_from_export": [],
+    "tasks_missing_from_questions": []
+  },
+  {
+    "as_published_snapshot": "not established; dated exports may be revised",
+    "changelog": "Switched the agent used for agentic coding to [Mini-SWE-Agent](https://mini-swe-agent.com/latest/) instead of SWE-Agent due to its simpler design, consistent interface with all models, and easier maintainability. Additionally, we updated the step limit to 250 rather than 50. The agentic coding tasks were rerun for all models with these changes and the existing 2025-05-30 leaderboard was updated with the new results.",
+    "published_export": null,
+    "release": "2025-10-03",
+    "retrospective_questions": 0,
+    "task_name_match": null,
+    "tasks_missing_from_export": [],
+    "tasks_missing_from_questions": []
+  },
+  {
+    "as_published_snapshot": "not established; dated exports may be revised",
+    "changelog": "This update refreshed some existing tasks and updated others to resolve (to some extent) saturation and contamination of the benchmark.\n - Updated connections with new tasks from more recent puzzles\n - Updated math_comp and olympiad with new questions from more recent competitions\n - Updated the instruction following tasks with both newer articles as well as new, more difficult types of instructions, and resolved issues with impossible tasks\n - Updated zebra_puzzle with newer, more difficult puzzles\n - Replaced web_of_lies_v3 with theory_of_mind, a new task to evaluate LLM's ability to reason about the internal states of other people in their environments",
+    "published_export": null,
+    "release": "2025-11-25",
+    "retrospective_questions": 682,
+    "task_name_match": null,
+    "tasks_missing_from_export": [],
+    "tasks_missing_from_questions": []
+  },
+  {
+    "as_published_snapshot": "not established; dated exports may be revised",
+    "changelog": "Added a new reasoning task: Logic with Navigation\n- Tests model to solve a logic problem, and then navigate in the 2D space.",
+    "published_export": null,
+    "release": "2025-12-23",
+    "retrospective_questions": 682,
+    "task_name_match": null,
+    "tasks_missing_from_export": [],
+    "tasks_missing_from_questions": []
+  },
+  {
+    "as_published_snapshot": "not established; dated exports may be revised",
+    "changelog": "Added a new math task (Integrals with Game) and a new data analysis task (consecutive events)\n- This version includes a new math task which introduces a game theory problem integraded with integral calculations.\n- We also introduce a new data analysis task (consecutive events) which test the LLMs on detecting specific events.",
+    "published_export": null,
+    "release": "2026-01-08",
+    "retrospective_questions": 682,
+    "task_name_match": null,
+    "tasks_missing_from_export": [],
+    "tasks_missing_from_questions": []
+  },
+  {
+    "as_published_snapshot": "not established; dated exports may be revised",
+    "changelog": "not documented in acquired changelog",
+    "published_export": null,
+    "release": "2026-06-25",
+    "retrospective_questions": 682,
+    "task_name_match": null,
+    "tasks_missing_from_export": [],
+    "tasks_missing_from_questions": []
+  }
+]

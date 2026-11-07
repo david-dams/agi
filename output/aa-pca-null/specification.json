@@ -1,0 +1,21 @@
+{
+  "draws_per_design": 2000,
+  "seed": 20261028,
+  "methods": [
+    "projected",
+    "rotated_spectrum"
+  ],
+  "sampling_schemes": [
+    "fixed_sizes",
+    "global_clusters"
+  ],
+  "common_axis": "sample-size-minus-one weighted chordal consensus of observed cohort PC1 axes; top eigenvector of sum((n_g-1)*v_g*v_g.T)",
+  "primary_null": "projected covariance: a_g*u*u.T + P*S_g*P, a_g=u.T*S_g*u, P=I-u*u.T; no common constraints within orthogonal complements",
+  "sensitivity_null": "minimum orthogonal rotation maps observed PC1 to consensus while preserving entire cohort covariance spectrum",
+  "primary_sampling": "sample whole bases within full/selected cohort-count signature strata to preserve exact cohort sizes and number of bases",
+  "sensitivity_sampling": "global named-base cluster resampling; cohort row counts vary",
+  "scaling": "previous PCA pooled metric frozen across cohorts, constructions and simulation draws; no null restandardization",
+  "statistic": "three acute pairwise PC1 angles, their congruences, and maximum angle as omnibus statistic; plus-one Monte Carlo p-values",
+  "multiplicity": "max-angle adjusted pairwise p-values under the complete shared-axis null; not asserted strong FWER for arbitrary partial nulls",
+  "interpretation": "conditional covariance-geometry null, not a latent-intelligence, discrimination or causal model"
+}

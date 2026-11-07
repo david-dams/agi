@@ -1,0 +1,36 @@
+{
+  "bootstrap_draws": 2000,
+  "null_draws": 500,
+  "seed": 20261027,
+  "residual_blocks": [
+    [
+      "scicode",
+      "terminalbenchHard"
+    ],
+    [
+      "gpqa",
+      "hle",
+      "omniscience"
+    ]
+  ],
+  "partial_candidates": [
+    [
+      "lcr"
+    ],
+    [
+      "critpt"
+    ],
+    [
+      "critpt",
+      "lcr"
+    ]
+  ],
+  "candidate_rationale": "previously documented CritPt and AA-LCR floor effects, fixed before these fits; not selected from new loading results",
+  "diagnostic_sweep": "all single benchmark releases; no ranking-based selection; GPQA release uses IFBench marker",
+  "resampling": "one global matched named-base cluster draw across four cases",
+  "null": "covariance-null recoloring to fitted equal-loading covariance, then whole-cluster empirical resampling",
+  "reporting": "admissible intervals only if >=90%; finite-boundary sensitivity separately; null failure bounds",
+  "relative_screen": "deltaCFI >= -0.01, descriptive only",
+  "absolute_screen": "CFI >= .95 and multi-group RMSEA <= .08, descriptive only",
+  "phase": "locked before point_analysis"
+}

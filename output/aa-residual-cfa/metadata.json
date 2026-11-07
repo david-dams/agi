@@ -1,0 +1,37 @@
+{
+  "replicates": 1000,
+  "seed": 20261026,
+  "specifications": {
+    "coding": [
+      [
+        "scicode",
+        "terminalbenchHard"
+      ]
+    ],
+    "coding_academic": [
+      [
+        "scicode",
+        "terminalbenchHard"
+      ],
+      [
+        "gpqa",
+        "hle",
+        "omniscience"
+      ]
+    ]
+  },
+  "input_hashes": {
+    "output/aa-cohort/matrix.csv": "d7a36c5596208af6ebf498f21216c07e6f8d39e8a3f6ca87312f56addb80405d",
+    "output/aa-cohort/configurations.csv": "397dfb2206cab3638e92764d3e246a231ea9dc49e80047e44d3e22246dd71344",
+    "output/aa-cohort/metadata.json": "f8f64e879c99ad88818e0db9802851cbf8530ed1a82a9a603214fe1ec3e36568",
+    "output/aa-cohort/bootstrap.npz": "83dd9f553a32af0af5f92f0eb10359e29b11daeec7db86aef6ebfe22206a7ae2",
+    "output/aa-cohort/fits.csv": "63c7dca2294e18cfe95061042034bb530de68115fc0bef64da3410bf6a1652e9"
+  },
+  "code_hashes": {
+    "aa_residual_cfa.py": "faa997f5fd1a772cde297512eb49da53fc6bbd7941b94cdc9fe7ae0fb9498503",
+    "factor_models.py": "f6fa8f2e5e9aace0ad014a572bce5b4606e87068a67590c13423500c71ae740e"
+  },
+  "exploratory": true,
+  "numpy": "2.5.1",
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]"
+}

@@ -1,0 +1,17 @@
+{
+  "replicates": 1000,
+  "seed": 20261026,
+  "source_sha256": "b0bc8271c834b33191f67fa3d98fe410d10c693a17f79c4b965b6dae9e695e50",
+  "code_sha256": {
+    "aa_cohort_factor.py": "f9f107678a2e749b8bb6c03b10937ee978c247fe8984b0deb181c7773ce0a3e4",
+    "factor_models.py": "f6fa8f2e5e9aace0ad014a572bce5b4606e87068a67590c13423500c71ae740e",
+    "aa_provenance_audit.py": "a785a125f7d1bd761dcd192d2cc16d6fed0503c425226429eb118112a8f87e51"
+  },
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "numpy": "2.5.1",
+  "cluster_count": 279,
+  "configurations": 387,
+  "selected": 279,
+  "selection": "highest explicit effort rank, then reasoning for unspecified effort, then lexicographically last slug; no benchmark selection",
+  "cluster_limit": "base setting variants only; broader shared ancestry unresolved; intervals conditional on clustering and selected AA population"
+}

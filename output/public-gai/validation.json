@@ -1,0 +1,13 @@
+{
+  "bias_diagnostic": "verified",
+  "code_and_input_hashes": "verified",
+  "full_bootstrap_replay": "byte-identical numeric outputs",
+  "interval_withholding": "verified",
+  "legacy_cli": "rank-only and full PDF smoke passed",
+  "legacy_n1_max_loading_difference": 3.2526399942334194e-06,
+  "pdf_pages": 10,
+  "pdf_replay": "byte-identical",
+  "pdf_visual_review": "All 10 rendered pages inspected; model table and methods page checked at full resolution; no clipping or overlap observed.",
+  "sign_alignment": "verified",
+  "unit_tests": 11
+}

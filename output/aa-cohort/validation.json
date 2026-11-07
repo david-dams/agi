@@ -1,0 +1,10 @@
+{
+  "full_suite_tests": 29,
+  "failures": 0,
+  "scipy": "1.18.1",
+  "bootstrap_cells": 12000,
+  "all_bootstrap_cells_admissible": true,
+  "hash_checks": "source archive and analysis code verified",
+  "rendering": "saved outputs rendered with cached Matplotlib; main figure visually inspected",
+  "limits": "broader ancestry and per-item uncertainty not audited"
+}

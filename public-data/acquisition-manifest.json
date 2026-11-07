@@ -1,0 +1,65 @@
+{
+  "retrieved_at": "2026-10-25T12:47:38.319570+00:00",
+  "files": [
+    {
+      "path": "aa-snapshot/aa_analysis_models.csv",
+      "url": "https://raw.githubusercontent.com/louisyzhu/frontier-ai-economic-validity/main/data/processed/aa_analysis_models.csv",
+      "bytes": 137047,
+      "sha256": "0c78f8c64b142825ce32df2caa6e86a8b051f9752da31ba84443c600d3a2d569",
+      "transport": "web-tool line extraction; normalized LF; upstream bytes/hash unverified",
+      "rows": 421,
+      "columns": 34
+    },
+    {
+      "path": "aa-snapshot/aa_snapshot_manifest.json",
+      "url": "https://raw.githubusercontent.com/louisyzhu/frontier-ai-economic-validity/main/data/raw/aa_snapshot_manifest.json",
+      "bytes": 633,
+      "sha256": "539a19261af0e8459c50f060dfa880bd4535de7c20d211268b05d47ac3e2eab1",
+      "transport": "web-tool line extraction; normalized LF; upstream bytes/hash unverified"
+    },
+    {
+      "path": "obsscaling/base_llm_benchmark_eval.csv",
+      "url": "https://raw.githubusercontent.com/ryoungj/ObsScaling/main/eval_results/base_llm_benchmark_eval.csv",
+      "bytes": 28155,
+      "sha256": "511996815735a4c46251dc585dcc525e370d148201f86561e6f927f9df2d0db8",
+      "transport": "web-tool line extraction; normalized LF; upstream bytes/hash unverified",
+      "rows": 148,
+      "columns": 13
+    },
+    {
+      "path": "obsscaling/instruct_llm_benchmark_eval.csv",
+      "url": "https://raw.githubusercontent.com/ryoungj/ObsScaling/main/eval_results/instruct_llm_benchmark_eval.csv",
+      "bytes": 4763,
+      "sha256": "9bc50f327f4e436b15a6d6e3edb8b4837e726b295a1c72d44fadb9c9d25a75ba",
+      "transport": "web-tool line extraction; normalized LF; upstream bytes/hash unverified",
+      "rows": 27,
+      "columns": 14
+    },
+    {
+      "path": "estonian/summary.csv",
+      "url": "https://raw.githubusercontent.com/keeleinstituut/leaderboard-data-ui/main/summary.csv",
+      "bytes": 10950,
+      "sha256": "c85c4e761c1187527265d7cec11fb6481f1e3587c6c92389981b618dca9c3bc0",
+      "transport": "web-tool line extraction; normalized LF; upstream bytes/hash unverified",
+      "rows": 98,
+      "columns": 15
+    }
+  ],
+  "direct_download_attempts": [
+    {
+      "host": "raw.githubusercontent.com",
+      "status": "failed",
+      "error": "Temporary failure in name resolution"
+    },
+    {
+      "host": "huggingface.co",
+      "status": "failed",
+      "error": "Temporary failure in name resolution"
+    },
+    {
+      "host": "storage.googleapis.com",
+      "status": "failed",
+      "error": "Temporary failure in name resolution"
+    }
+  ]
+}

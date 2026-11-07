@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mplconfig/
+/public-data/*
+!/public-data/README.md
+!/public-data/acquisition-manifest.json
+!/public-data/download-status.tsv
+/benchmark_data.zip
+/feasibility/livebench/cache/
+*.log
+*.part

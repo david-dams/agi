@@ -1,0 +1,98 @@
+[
+  {
+    "sample": "all",
+    "battery": "nine",
+    "spec": "coding",
+    "free_cfi": 0.832936805251131,
+    "equal_cfi": 0.7750071197369979,
+    "delta_cfi": -0.057929685514133133,
+    "delta_chi2": 230.81123288027675,
+    "delta_df": 16,
+    "approximate_p": 4.365732848290301e-40,
+    "boundary": false
+  },
+  {
+    "sample": "all",
+    "battery": "nine",
+    "spec": "coding_academic",
+    "free_cfi": 0.8504307465219051,
+    "equal_cfi": 0.8015537725562103,
+    "delta_cfi": -0.04887697396569479,
+    "delta_chi2": 197.24253470125507,
+    "delta_df": 16,
+    "approximate_p": 2.8596428559898882e-33,
+    "boundary": false
+  },
+  {
+    "sample": "all",
+    "battery": "eight",
+    "spec": "coding",
+    "free_cfi": 0.8993916879035384,
+    "equal_cfi": 0.8604970363626113,
+    "delta_cfi": -0.03889465154092708,
+    "delta_chi2": 139.42516509476053,
+    "delta_df": 14,
+    "approximate_p": 9.230176884407644e-23,
+    "boundary": false
+  },
+  {
+    "sample": "all",
+    "battery": "eight",
+    "spec": "coding_academic",
+    "free_cfi": 0.9208703943596527,
+    "equal_cfi": 0.8890548303170791,
+    "delta_cfi": -0.031815564042573574,
+    "delta_chi2": 116.5969436549322,
+    "delta_df": 14,
+    "approximate_p": 2.911792434535881e-18,
+    "boundary": false
+  },
+  {
+    "sample": "selected",
+    "battery": "nine",
+    "spec": "coding",
+    "free_cfi": 0.8265750262293309,
+    "equal_cfi": 0.7662644578342371,
+    "delta_cfi": -0.060310568395093744,
+    "delta_chi2": 197.21240736877576,
+    "delta_df": 16,
+    "approximate_p": 2.8999762144532897e-33,
+    "boundary": false
+  },
+  {
+    "sample": "selected",
+    "battery": "nine",
+    "spec": "coding_academic",
+    "free_cfi": 0.8457448836860636,
+    "equal_cfi": 0.7945523824061647,
+    "delta_cfi": -0.05119250127989894,
+    "delta_chi2": 169.81576799920003,
+    "delta_df": 16,
+    "approximate_p": 9.163461176454402e-28,
+    "boundary": false
+  },
+  {
+    "sample": "selected",
+    "battery": "eight",
+    "spec": "coding",
+    "free_cfi": 0.8993576035080586,
+    "equal_cfi": 0.8593142531436713,
+    "delta_cfi": -0.04004335036438733,
+    "delta_chi2": 117.36215020381474,
+    "delta_df": 14,
+    "approximate_p": 2.0641034476650053e-18,
+    "boundary": true
+  },
+  {
+    "sample": "selected",
+    "battery": "eight",
+    "spec": "coding_academic",
+    "free_cfi": 0.9229974303913885,
+    "equal_cfi": 0.890131890854896,
+    "delta_cfi": -0.032865539536492516,
+    "delta_chi2": 98.8343808194814,
+    "delta_df": 14,
+    "approximate_p": 7.929131834242103e-15,
+    "boundary": false
+  }
+]

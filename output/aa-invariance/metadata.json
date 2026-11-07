@@ -1,0 +1,51 @@
+{
+  "specification": {
+    "bootstrap_draws": 2000,
+    "null_draws": 500,
+    "seed": 20261027,
+    "residual_blocks": [
+      [
+        "scicode",
+        "terminalbenchHard"
+      ],
+      [
+        "gpqa",
+        "hle",
+        "omniscience"
+      ]
+    ],
+    "partial_candidates": [
+      [
+        "lcr"
+      ],
+      [
+        "critpt"
+      ],
+      [
+        "critpt",
+        "lcr"
+      ]
+    ],
+    "candidate_rationale": "previously documented CritPt and AA-LCR floor effects, fixed before these fits; not selected from new loading results",
+    "diagnostic_sweep": "all single benchmark releases; no ranking-based selection; GPQA release uses IFBench marker",
+    "resampling": "one global matched named-base cluster draw across four cases",
+    "null": "covariance-null recoloring to fitted equal-loading covariance, then whole-cluster empirical resampling",
+    "reporting": "admissible intervals only if >=90%; finite-boundary sensitivity separately; null failure bounds",
+    "relative_screen": "deltaCFI >= -0.01, descriptive only",
+    "absolute_screen": "CFI >= .95 and multi-group RMSEA <= .08, descriptive only",
+    "phase": "locked before point_analysis"
+  },
+  "elapsed_seconds": 372.58389530600107,
+  "workers": 4,
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "numpy": "2.5.1",
+  "source_hashes": {
+    "output/aa-cohort/matrix.csv": "d7a36c5596208af6ebf498f21216c07e6f8d39e8a3f6ca87312f56addb80405d",
+    "output/aa-cohort/configurations.csv": "397dfb2206cab3638e92764d3e246a231ea9dc49e80047e44d3e22246dd71344"
+  },
+  "code_hashes": {
+    "aa_invariance_study.py": "4b66485c00d62ba36c92f8e63eba6113a92cfb1a8fa0b39de50737ca9a855c7a",
+    "aa_residual_cfa.py": "04ae3f2757148632d76d0d829dbdc9f1f79aab33f54f8f67a5083e0485dbe9cc",
+    "factor_models.py": "f6fa8f2e5e9aace0ad014a572bce5b4606e87068a67590c13423500c71ae740e"
+  }
+}

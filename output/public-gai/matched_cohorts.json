@@ -1,0 +1,30 @@
+[
+  {
+    "changed_item_scores": 0,
+    "left": "86ad8e20dc53bbf2549d6fddd91e183f23525a6a",
+    "left_g_variance": 0.7879598403698955,
+    "max_loading_change": 0.0,
+    "max_rank_change": 0.0,
+    "max_relative_score_change": 0.0,
+    "max_task_mean_change": 0.0,
+    "models": 59,
+    "right": "65fce612236e865cb87e0917db64702d9c856459",
+    "right_g_variance": 0.7879598403698955,
+    "shared_item_ids": 1000,
+    "tasks": 18
+  },
+  {
+    "changed_item_scores": 17,
+    "left": "65fce612236e865cb87e0917db64702d9c856459",
+    "left_g_variance": 0.7908095326042832,
+    "max_loading_change": 0.023669159522324734,
+    "max_rank_change": 1.0,
+    "max_relative_score_change": 0.0281335340871518,
+    "max_task_mean_change": 0.09999999999999998,
+    "models": 60,
+    "right": "81f6a1cd42f793285e215aabed4fd1c71a94889a",
+    "right_g_variance": 0.7931948749954,
+    "shared_item_ids": 1000,
+    "tasks": 18
+  }
+]

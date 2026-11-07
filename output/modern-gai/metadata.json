@@ -1,0 +1,21 @@
+{
+  "seed": 0,
+  "resamples": 200,
+  "sha256": {
+    "livebench-tables/table_2025_05_30.csv": "c1215f3df5b2e0a5fe69907c101d29922bf783b011df9ba82638c0145cb4c64c",
+    "livebench-tables/table_2025_11_25.csv": "34242000938912ac33369e3b25d49f6eafd3cc64823914b2405cef9a7ddcd81d",
+    "livebench-tables/table_2026_06_25.csv": "f0330164423abf9803631fc5b2f2b5427f17c0161c12e15021bb0f9781d2afa8",
+    "modern_gai_factor.py": "c2ea938f61eab80aaacf68f617a49925d8fb3e9a6ad27b0966f0c2efe72797e7",
+    "factor_models.py": "f6fa8f2e5e9aace0ad014a572bce5b4606e87068a67590c13423500c71ae740e"
+  },
+  "python": "3.12.3",
+  "numpy": "2.5.1",
+  "scipy": "1.18.1",
+  "sources": {
+    "table_2025_05_30.csv": "https://raw.githubusercontent.com/LiveBench/livebench.github.io/main/public/table_2025_05_30.csv",
+    "table_2025_11_25.csv": "https://raw.githubusercontent.com/LiveBench/livebench.github.io/main/public/table_2025_11_25.csv",
+    "table_2026_06_25.csv": "https://raw.githubusercontent.com/LiveBench/livebench.github.io/main/public/table_2026_06_25.csv"
+  },
+  "report_regenerated_after_analysis": "Added matched-cell score change table; numerical analysis unchanged.",
+  "analysis_script_sha256": "1e05e417609d0b000aad574efe56875302d48d6f36d5ca48ee5473aefc7f0fdf"
+}

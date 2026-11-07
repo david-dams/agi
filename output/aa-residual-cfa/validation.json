@@ -1,0 +1,13 @@
+{
+  "tests": 32,
+  "failures": 0,
+  "bootstrap_fit_cells": 24000,
+  "admissible": 22630,
+  "boundary": 1370,
+  "scipy": "1.18.1",
+  "matplotlib": "3.10.0",
+  "plot_code_sha256": "8454a325f2b2833c0df4437e60b54a1273bb757481debaa1b83a9d5936ce9e95",
+  "hash_checks": "all pinned inputs and analysis code match",
+  "rendering": "cached project dependency; no refits",
+  "representative_boundary": "selected/eight/coding_academic/2025H1 draw 8: Cholesky log diagonal -6; min residual eigenvalue 3.44e-6"
+}

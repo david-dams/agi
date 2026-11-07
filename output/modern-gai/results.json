@@ -1,0 +1,1559 @@
+{
+  "panels": [
+    {
+      "panel": "2025_05_30",
+      "models": [
+        "claude-3-7-sonnet-20250219-base",
+        "claude-3-7-sonnet-20250219-thinking-64k",
+        "claude-4-1-opus-20250805-base",
+        "claude-4-1-opus-20250805-thinking-32k",
+        "claude-4-sonnet-20250514-base",
+        "claude-4-sonnet-20250514-thinking-64k",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-5-20250929-thinking-64k",
+        "command-a-03-2025",
+        "deepseek-r1-0528",
+        "deepseek-v3.1-terminus",
+        "deepseek-v3.1-terminus-thinking",
+        "gemini-2.5-flash-06-05-highthinking",
+        "gemini-2.5-flash-lite-highthinking",
+        "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+        "gemini-2.5-flash-preview-09-2025-highthinking",
+        "gemini-2.5-pro-06-05-highthinking",
+        "glm-4.5",
+        "glm-4.5-air",
+        "glm-4.6",
+        "gpt-5",
+        "gpt-5-codex",
+        "gpt-5-high",
+        "gpt-5-low",
+        "gpt-5-mini",
+        "gpt-5-mini-high",
+        "gpt-5-mini-low",
+        "gpt-5-mini-minimal",
+        "gpt-5-minimal",
+        "gpt-5-nano",
+        "gpt-5-nano-high",
+        "gpt-5-nano-low",
+        "gpt-5-pro-2025-10-06",
+        "gpt-5-chat",
+        "gpt-oss-120b",
+        "grok-4-0709",
+        "grok-code-fast-1-0825",
+        "kimi-k2-instruct",
+        "mistral-medium-2505",
+        "qwen3-235b-a22b-instruct-2507",
+        "qwen3-235b-a22b-thinking",
+        "qwen3-235b-a22b-thinking-2507",
+        "qwen3-30b-a3b-thinking",
+        "qwen3-32b-thinking",
+        "qwen3-coder-480b-a35b-instruct",
+        "qwen3-max-2025-09-23",
+        "qwen3-next-80b-a3b-instruct",
+        "qwen3-next-80b-a3b-thinking",
+        "claude-haiku-4-5-20251001",
+        "claude-haiku-4-5-20251001-thinking-64k",
+        "deepseek-v3.2-exp",
+        "deepseek-v3.2-exp-thinking",
+        "minimax-m2",
+        "kimi-k2-thinking",
+        "grok-4-fast-non-reasoning-2511",
+        "grok-4-fast-reasoning-2511",
+        "gpt-5.1-2025-11-13-high",
+        "gpt-5.1-2025-11-13-nothinking",
+        "gpt-5.1-codex",
+        "gpt-5.1-codex-mini",
+        "gemini-3-pro-preview-11-2025-high",
+        "gemini-3-pro-preview-11-2025-low",
+        "grok-4-1-fast-non-reasoning",
+        "grok-4-1-fast-reasoning",
+        "claude-opus-4-5-20251101-high-effort",
+        "claude-opus-4-5-20251101-low-effort",
+        "claude-opus-4-5-20251101-medium-effort",
+        "claude-opus-4-5-20251101-thinking-high-effort",
+        "claude-opus-4-5-20251101-thinking-low-effort",
+        "claude-opus-4-5-20251101-thinking-medium-effort"
+      ],
+      "tasks": [
+        "AMPS_Hard",
+        "code_completion",
+        "code_generation",
+        "connections",
+        "javascript",
+        "math_comp",
+        "olympiad",
+        "paraphrase",
+        "plot_unscrambling",
+        "python",
+        "simplify",
+        "spatial",
+        "story_generation",
+        "summarize",
+        "tablejoin",
+        "tablereformat",
+        "typescript",
+        "typos",
+        "web_of_lies_v3",
+        "zebra_puzzle"
+      ],
+      "n": 70,
+      "p": 20,
+      "rank": 20,
+      "min_correlation_eigenvalue": 0.041826586306163455,
+      "zero_scores": [
+        {
+          "model": "command-a-03-2025",
+          "task": "javascript"
+        },
+        {
+          "model": "command-a-03-2025",
+          "task": "typescript"
+        },
+        {
+          "model": "gemini-2.5-flash-06-05-highthinking",
+          "task": "typescript"
+        },
+        {
+          "model": "gemini-2.5-flash-lite-highthinking",
+          "task": "typescript"
+        },
+        {
+          "model": "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+          "task": "python"
+        },
+        {
+          "model": "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+          "task": "typescript"
+        },
+        {
+          "model": "gpt-5-nano-low",
+          "task": "typescript"
+        },
+        {
+          "model": "qwen3-235b-a22b-thinking",
+          "task": "javascript"
+        },
+        {
+          "model": "qwen3-235b-a22b-thinking",
+          "task": "typescript"
+        },
+        {
+          "model": "qwen3-30b-a3b-thinking",
+          "task": "javascript"
+        },
+        {
+          "model": "qwen3-30b-a3b-thinking",
+          "task": "typescript"
+        },
+        {
+          "model": "qwen3-32b-thinking",
+          "task": "javascript"
+        },
+        {
+          "model": "qwen3-32b-thinking",
+          "task": "typescript"
+        },
+        {
+          "model": "qwen3-next-80b-a3b-thinking",
+          "task": "typescript"
+        }
+      ],
+      "groups": [
+        [
+          "AMPS_Hard",
+          "connections",
+          "math_comp",
+          "spatial",
+          "tablejoin",
+          "tablereformat",
+          "web_of_lies_v3",
+          "zebra_puzzle"
+        ],
+        [
+          "code_completion",
+          "code_generation",
+          "javascript",
+          "olympiad",
+          "plot_unscrambling",
+          "python",
+          "typescript",
+          "typos"
+        ],
+        [
+          "paraphrase",
+          "simplify",
+          "story_generation",
+          "summarize"
+        ]
+      ],
+      "fits": {
+        "1": {
+          "status": "ok",
+          "g_variance_share": 0.4570981246722684,
+          "ecv": 1.0000000000000002,
+          "cfi": 0.4772274443465785,
+          "rmsea": 0.26561228138476173,
+          "aic": 1077.5501395829613,
+          "bic": 1167.4899492649356,
+          "residual_rms": 0.19914848655714343,
+          "omega_h": 0.9403918225409084,
+          "loadings": {
+            "AMPS_Hard": 0.7894000000435731,
+            "code_completion": 0.38200221486253993,
+            "code_generation": 0.45376346025347203,
+            "connections": 0.84562929708987,
+            "javascript": 0.4786128094269423,
+            "math_comp": 0.8540320800957704,
+            "olympiad": 0.7619246732482559,
+            "paraphrase": 0.5826546948740775,
+            "plot_unscrambling": 0.5387894753853606,
+            "python": 0.5421453013455296,
+            "simplify": 0.6192407031261056,
+            "spatial": 0.8790148870854312,
+            "story_generation": 0.5232271295947784,
+            "summarize": 0.5949294329875336,
+            "tablejoin": 0.8669157474751359,
+            "tablereformat": 0.5686964680451289,
+            "typescript": 0.5174748163408582,
+            "typos": 0.4865451713089668,
+            "web_of_lies_v3": 0.8891091024549665,
+            "zebra_puzzle": 0.9140065981855204
+          },
+          "resampling": {
+            "attempted": 200,
+            "admissible": 200,
+            "outcomes": {
+              "ok": 200
+            },
+            "intervals": {
+              "g_variance_share": [
+                0.37628308733443644,
+                0.5494520919030155
+              ],
+              "ecv": [
+                0.9999999999999998,
+                1.0000000000000002
+              ],
+              "cfi": [
+                0.355078053021118,
+                0.5078272305918884
+              ],
+              "rmsea": [
+                0.2704726263005003,
+                0.319715106474903
+              ],
+              "aic": [
+                1108.1133419439282,
+                1449.0186653810515
+              ],
+              "bic": [
+                1198.0531516259025,
+                1538.9584750630258
+              ],
+              "residual_rms": [
+                0.15508326572370615,
+                0.25423658374144714
+              ],
+              "omega_h": [
+                0.9125785084654457,
+                0.9597320323497343
+              ]
+            }
+          }
+        },
+        "3": {
+          "status": "ok",
+          "g_variance_share": 0.36467457648540613,
+          "ecv": 0.5146787740941989,
+          "cfi": 0.7794143282575582,
+          "rmsea": 0.17407910163032952,
+          "aic": 602.1876179542215,
+          "bic": 698.872913362344,
+          "residual_rms": 0.11309825524927666,
+          "omega_h": 0.7256837444133544,
+          "loadings": {
+            "AMPS_Hard": 0.6574591409123804,
+            "code_completion": 0.4600438821122815,
+            "code_generation": 0.45030136850361635,
+            "connections": 0.6627541886821537,
+            "javascript": 0.5124214127048015,
+            "math_comp": 0.723552328926095,
+            "olympiad": 0.5396744040091838,
+            "paraphrase": 0.6065742724443609,
+            "plot_unscrambling": 0.5304506057319498,
+            "python": 0.5375776798499741,
+            "simplify": 0.620755186980837,
+            "spatial": 0.7605270689952638,
+            "story_generation": 0.5948796094280329,
+            "summarize": 0.6208360722597394,
+            "tablejoin": 0.6824210535537786,
+            "tablereformat": 0.4145434418084013,
+            "typescript": 0.5322150310397399,
+            "typos": 0.5031836612922097,
+            "web_of_lies_v3": 0.7243034011863241,
+            "zebra_puzzle": 0.7682888044743496
+          },
+          "resampling": {
+            "attempted": 200,
+            "admissible": 179,
+            "outcomes": {
+              "ok": 179,
+              "boundary": 21
+            },
+            "intervals": null
+          }
+        }
+      },
+      "paired_bootstrap": {
+        "admissible": 179,
+        "hierarchy_bic_wins": 179
+      }
+    },
+    {
+      "panel": "2025_11_25",
+      "models": [
+        "claude-4-1-opus-20250805-base",
+        "claude-4-1-opus-20250805-thinking-32k",
+        "claude-4-sonnet-20250514-base",
+        "claude-4-sonnet-20250514-thinking-64k",
+        "claude-haiku-4-5-20251001",
+        "claude-haiku-4-5-20251001-thinking-64k",
+        "claude-opus-4-5-20251101-high-effort",
+        "claude-opus-4-5-20251101-low-effort",
+        "claude-opus-4-5-20251101-medium-effort",
+        "claude-opus-4-5-20251101-thinking-64k-high-effort",
+        "claude-opus-4-5-20251101-thinking-64k-low-effort",
+        "claude-opus-4-5-20251101-thinking-64k-medium-effort",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-5-20250929-thinking-64k",
+        "deepseek-v3.2",
+        "deepseek-v3.2-exp",
+        "deepseek-v3.2-exp-thinking",
+        "deepseek-v3.2-speciale",
+        "deepseek-v3.2-thinking",
+        "devstral-2512",
+        "gemini-2.5-flash-06-05-highthinking",
+        "gemini-2.5-flash-lite-highthinking",
+        "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+        "gemini-2.5-flash-preview-09-2025-highthinking",
+        "gemini-2.5-pro-06-05-highthinking",
+        "gemini-3-flash-preview-high",
+        "gemini-3-flash-preview-minimal",
+        "gemini-3-pro-preview-11-2025-high",
+        "gemini-3-pro-preview-11-2025-low",
+        "glm-4.6",
+        "glm-4.6v",
+        "gpt-5-mini",
+        "gpt-5-mini-high",
+        "gpt-5-mini-low",
+        "gpt-5-mini-minimal",
+        "gpt-5-nano",
+        "gpt-5-nano-high",
+        "gpt-5-nano-low",
+        "gpt-5-pro-2025-10-06",
+        "gpt-5.1-2025-11-13-high",
+        "gpt-5.1-2025-11-13-low",
+        "gpt-5.1-2025-11-13-medium",
+        "gpt-5.1-2025-11-13-nothinking",
+        "gpt-5.1-codex",
+        "gpt-5.1-codex-max",
+        "gpt-5.1-codex-max-high",
+        "gpt-5.1-codex-max-xhigh",
+        "gpt-5.1-codex-mini",
+        "gpt-5.2-2025-12-11-high",
+        "gpt-5.2-2025-12-11-low",
+        "gpt-5.2-2025-12-11-medium",
+        "gpt-5.2-2025-12-11-nothinking",
+        "gpt-oss-120b",
+        "grok-4-0709",
+        "grok-4-1-fast-non-reasoning",
+        "grok-4-1-fast-reasoning",
+        "grok-code-fast-1-0825",
+        "kimi-k2-instruct",
+        "kimi-k2-thinking",
+        "qwen3-235b-a22b-instruct-2507",
+        "qwen3-235b-a22b-thinking-2507",
+        "qwen3-30b-a3b-thinking",
+        "qwen3-32b-thinking",
+        "qwen3-next-80b-a3b-instruct",
+        "qwen3-next-80b-a3b-thinking"
+      ],
+      "tasks": [
+        "AMPS_Hard",
+        "code_completion",
+        "code_generation",
+        "connections",
+        "javascript",
+        "math_comp",
+        "olympiad",
+        "paraphrase",
+        "plot_unscrambling",
+        "python",
+        "simplify",
+        "spatial",
+        "story_generation",
+        "summarize",
+        "tablejoin",
+        "tablereformat",
+        "theory_of_mind",
+        "typescript",
+        "typos",
+        "zebra_puzzle"
+      ],
+      "n": 65,
+      "p": 20,
+      "rank": 20,
+      "min_correlation_eigenvalue": 0.01724711925354113,
+      "zero_scores": [
+        {
+          "model": "gemini-2.5-flash-06-05-highthinking",
+          "task": "typescript"
+        },
+        {
+          "model": "gemini-2.5-flash-lite-highthinking",
+          "task": "typescript"
+        },
+        {
+          "model": "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+          "task": "python"
+        },
+        {
+          "model": "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+          "task": "typescript"
+        },
+        {
+          "model": "glm-4.6v",
+          "task": "javascript"
+        },
+        {
+          "model": "glm-4.6v",
+          "task": "typescript"
+        },
+        {
+          "model": "gpt-5-nano-low",
+          "task": "typescript"
+        },
+        {
+          "model": "qwen3-30b-a3b-thinking",
+          "task": "javascript"
+        },
+        {
+          "model": "qwen3-30b-a3b-thinking",
+          "task": "typescript"
+        },
+        {
+          "model": "qwen3-32b-thinking",
+          "task": "javascript"
+        },
+        {
+          "model": "qwen3-32b-thinking",
+          "task": "typescript"
+        },
+        {
+          "model": "qwen3-next-80b-a3b-thinking",
+          "task": "typescript"
+        }
+      ],
+      "groups": [
+        [
+          "AMPS_Hard",
+          "connections",
+          "math_comp",
+          "paraphrase",
+          "simplify",
+          "story_generation",
+          "summarize",
+          "theory_of_mind",
+          "zebra_puzzle"
+        ],
+        [
+          "code_completion",
+          "code_generation",
+          "javascript",
+          "olympiad",
+          "plot_unscrambling",
+          "python",
+          "typescript",
+          "typos"
+        ],
+        [
+          "spatial",
+          "tablejoin",
+          "tablereformat"
+        ]
+      ],
+      "fits": {
+        "1": {
+          "status": "ok",
+          "g_variance_share": 0.4263537904763511,
+          "ecv": 1.0,
+          "cfi": 0.4998147265513845,
+          "rmsea": 0.28081974948050564,
+          "aic": 1107.9938808774382,
+          "bic": 1194.9693716732636,
+          "residual_rms": 0.24557241547010403,
+          "omega_h": 0.9286368698760846,
+          "loadings": {
+            "AMPS_Hard": 0.5507491494041602,
+            "code_completion": 0.2550976547186843,
+            "code_generation": 0.3510759810511745,
+            "connections": 0.6790628521868621,
+            "javascript": 0.4897857850784958,
+            "math_comp": 0.6633539621849466,
+            "olympiad": 0.48196664771681935,
+            "paraphrase": 0.9744725447894969,
+            "plot_unscrambling": 0.31742326846893293,
+            "python": 0.4436545073094786,
+            "simplify": 0.971310715027003,
+            "spatial": 0.6970552908266637,
+            "story_generation": 0.9710139823745203,
+            "summarize": 0.9830552950621825,
+            "tablejoin": 0.6161527058810533,
+            "tablereformat": 0.3634842764270947,
+            "theory_of_mind": 0.7862555842516664,
+            "typescript": 0.5556113604380873,
+            "typos": 0.35063968080782953,
+            "zebra_puzzle": 0.7174121485395816
+          },
+          "resampling": {
+            "attempted": 200,
+            "admissible": 200,
+            "outcomes": {
+              "ok": 200
+            },
+            "intervals": {
+              "g_variance_share": [
+                0.35455059498648117,
+                0.5452341400247379
+              ],
+              "ecv": [
+                0.9999999999999998,
+                1.0000000000000002
+              ],
+              "cfi": [
+                0.3659151348319973,
+                0.5235604481955206
+              ],
+              "rmsea": [
+                0.28587836154767,
+                0.34610688343895374
+              ],
+              "aic": [
+                1139.1839109041305,
+                1553.3150182262139
+              ],
+              "bic": [
+                1226.1594016999559,
+                1640.2905090220393
+              ],
+              "residual_rms": [
+                0.1670864944318808,
+                0.30022671865156175
+              ],
+              "omega_h": [
+                0.8906268009220093,
+                0.9588385456457091
+              ]
+            }
+          }
+        },
+        "3": {
+          "status": "ok",
+          "g_variance_share": 0.38185890671833655,
+          "ecv": 0.581093790769388,
+          "cfi": 0.6993993850360862,
+          "rmsea": 0.21964602825688728,
+          "aic": 768.6359091678228,
+          "bic": 862.1345617733351,
+          "residual_rms": 0.15362621560535067,
+          "omega_h": 0.7453470861348696,
+          "loadings": {
+            "AMPS_Hard": 0.4775088434870134,
+            "code_completion": 0.4210492081093435,
+            "code_generation": 0.4304105357116965,
+            "connections": 0.5824241744711334,
+            "javascript": 0.49506736604812673,
+            "math_comp": 0.5771972222665797,
+            "olympiad": 0.44737951803986065,
+            "paraphrase": 0.8593933726052665,
+            "plot_unscrambling": 0.4431332521555992,
+            "python": 0.4996021397757391,
+            "simplify": 0.8570978437073962,
+            "spatial": 0.7041696852776643,
+            "story_generation": 0.8571424810581822,
+            "summarize": 0.8638643982251559,
+            "tablejoin": 0.7219468777109287,
+            "tablereformat": 0.4920330048461027,
+            "theory_of_mind": 0.6780757530819007,
+            "typescript": 0.5134932110301611,
+            "typos": 0.402609394890799,
+            "zebra_puzzle": 0.6198387313721736
+          },
+          "resampling": {
+            "attempted": 200,
+            "admissible": 97,
+            "outcomes": {
+              "boundary": 103,
+              "ok": 97
+            },
+            "intervals": null
+          }
+        }
+      },
+      "paired_bootstrap": {
+        "admissible": 97,
+        "hierarchy_bic_wins": 97
+      }
+    },
+    {
+      "panel": "2026_06_25",
+      "models": [
+        "claude-opus-4-5-20251101-thinking-64k-high-effort",
+        "claude-opus-4-6-thinking-auto-high-effort",
+        "claude-opus-4-7-xhigh-effort",
+        "claude-opus-4-8-xhigh-effort",
+        "claude-sonnet-4-6-thinking-auto-medium-effort",
+        "claude-sonnet-5-xhigh-effort",
+        "deepseek-v4-flash",
+        "deepseek-v4-pro",
+        "gemini-3.1-pro-preview-high",
+        "gemini-3.5-flash-high",
+        "glm-5.2",
+        "gpt-5.2-2025-12-11-high",
+        "gpt-5.2-codex",
+        "gpt-5.4-mini-xhigh",
+        "gpt-5.4-nano-xhigh",
+        "gpt-5.4-xhigh",
+        "gpt-5.5",
+        "gpt-5.5-high",
+        "gpt-5.5-xhigh",
+        "grok-4.3",
+        "grok-build-0.1",
+        "kimi-k2.6-thinking",
+        "kimi-k2.7-code",
+        "minimax-m3",
+        "qwen3.6-27b",
+        "qwen3.6-plus",
+        "qwen3.7-max",
+        "claude-fable-5-xhigh-effort"
+      ],
+      "tasks": [
+        "AMPS_Hard",
+        "code_completion",
+        "code_generation",
+        "connections",
+        "consecutive_events",
+        "integrals_with_game",
+        "javascript",
+        "logic_with_navigation",
+        "math_comp",
+        "olympiad",
+        "paraphrase",
+        "plot_unscrambling",
+        "python",
+        "simplify",
+        "spatial",
+        "story_generation",
+        "summarize",
+        "tablejoin",
+        "tablereformat",
+        "theory_of_mind",
+        "typescript",
+        "typos",
+        "zebra_puzzle"
+      ],
+      "n": 28,
+      "p": 23,
+      "rank": 23,
+      "min_correlation_eigenvalue": 0.010949364673989596,
+      "zero_scores": [
+        {
+          "model": "gpt-5.5",
+          "task": "olympiad"
+        }
+      ],
+      "groups": [
+        [
+          "AMPS_Hard",
+          "connections",
+          "math_comp",
+          "paraphrase",
+          "plot_unscrambling",
+          "simplify",
+          "story_generation",
+          "summarize",
+          "tablejoin",
+          "tablereformat"
+        ],
+        [
+          "logic_with_navigation",
+          "spatial",
+          "typos"
+        ],
+        [
+          "code_completion",
+          "code_generation",
+          "consecutive_events",
+          "integrals_with_game",
+          "javascript",
+          "olympiad",
+          "python",
+          "theory_of_mind",
+          "typescript",
+          "zebra_puzzle"
+        ]
+      ],
+      "fits": {
+        "1": {
+          "status": "ok",
+          "g_variance_share": 0.3548546193257373,
+          "ecv": 1.0000000000000002,
+          "cfi": 0.45889826987395244,
+          "rmsea": 0.19624870236177291,
+          "aic": 561.1691652396012,
+          "bic": 622.4505727076605,
+          "residual_rms": 0.13905302409798678,
+          "omega_h": 0.9180936073725183,
+          "loadings": {
+            "AMPS_Hard": 0.32064658534895235,
+            "code_completion": 0.6584026323254876,
+            "code_generation": 0.5334959987478101,
+            "connections": 0.6447708667556208,
+            "consecutive_events": 0.5333663955459029,
+            "integrals_with_game": 0.7480829065741543,
+            "javascript": 0.4100117743987161,
+            "logic_with_navigation": 0.5538490404498965,
+            "math_comp": 0.5000225080410722,
+            "olympiad": 0.0181647853904329,
+            "paraphrase": 0.7292922238975562,
+            "plot_unscrambling": 0.8630475043087387,
+            "python": 0.5823781938362277,
+            "simplify": 0.7636277760651019,
+            "spatial": 0.27902608241978283,
+            "story_generation": 0.5780280115526871,
+            "summarize": 0.7067683005007042,
+            "tablejoin": 0.7090208747190191,
+            "tablereformat": 0.20112390148140033,
+            "theory_of_mind": 0.7753204906011719,
+            "typescript": 0.5718594321514564,
+            "typos": 0.47755875637682454,
+            "zebra_puzzle": 0.7387894083771422
+          },
+          "resampling": {
+            "attempted": 200,
+            "admissible": 0,
+            "outcomes": {
+              "singular": 200
+            },
+            "intervals": null
+          }
+        },
+        "3": {
+          "status": "ok",
+          "g_variance_share": 0.30153784748944956,
+          "ecv": 0.6685074271432259,
+          "cfi": 0.5352978770450127,
+          "rmsea": 0.18306513920029818,
+          "aic": 530.4002281721121,
+          "bic": 595.6782491706971,
+          "residual_rms": 0.14075619877231535,
+          "omega_h": 0.7907157078546591,
+          "loadings": {
+            "AMPS_Hard": 0.30906182785427017,
+            "code_completion": 0.5238773578113466,
+            "code_generation": 0.40608038145996833,
+            "connections": 0.5533992877362992,
+            "consecutive_events": 0.49074166986835493,
+            "integrals_with_game": 0.5868335185566009,
+            "javascript": 0.42937223942746994,
+            "logic_with_navigation": 0.28687568860675633,
+            "math_comp": 0.5499128393606478,
+            "olympiad": 0.04767280777442834,
+            "paraphrase": 0.8310646200074422,
+            "plot_unscrambling": 0.7536618707441208,
+            "python": 0.5225044233491959,
+            "simplify": 0.7902128647285714,
+            "spatial": 0.3638554361534148,
+            "story_generation": 0.6690231501417906,
+            "summarize": 0.800130152490079,
+            "tablejoin": 0.6445221191484068,
+            "tablereformat": 0.1976151598613799,
+            "theory_of_mind": 0.5934568055317899,
+            "typescript": 0.46548131639652374,
+            "typos": 0.4549738557784552,
+            "zebra_puzzle": 0.5753932012070719
+          },
+          "resampling": {
+            "attempted": 200,
+            "admissible": 0,
+            "outcomes": {
+              "singular": 200
+            },
+            "intervals": null
+          }
+        }
+      },
+      "paired_bootstrap": {
+        "admissible": 0,
+        "hierarchy_bic_wins": 0
+      }
+    },
+    {
+      "panel": "2025_05_30 matched",
+      "models": [
+        "claude-4-1-opus-20250805-base",
+        "claude-4-1-opus-20250805-thinking-32k",
+        "claude-4-sonnet-20250514-base",
+        "claude-4-sonnet-20250514-thinking-64k",
+        "claude-haiku-4-5-20251001",
+        "claude-haiku-4-5-20251001-thinking-64k",
+        "claude-opus-4-5-20251101-high-effort",
+        "claude-opus-4-5-20251101-low-effort",
+        "claude-opus-4-5-20251101-medium-effort",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-5-20250929-thinking-64k",
+        "deepseek-v3.2-exp",
+        "deepseek-v3.2-exp-thinking",
+        "gemini-2.5-flash-06-05-highthinking",
+        "gemini-2.5-flash-lite-highthinking",
+        "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+        "gemini-2.5-flash-preview-09-2025-highthinking",
+        "gemini-2.5-pro-06-05-highthinking",
+        "gemini-3-pro-preview-11-2025-high",
+        "gemini-3-pro-preview-11-2025-low",
+        "glm-4.6",
+        "gpt-5-mini",
+        "gpt-5-mini-high",
+        "gpt-5-mini-low",
+        "gpt-5-mini-minimal",
+        "gpt-5-nano",
+        "gpt-5-nano-high",
+        "gpt-5-nano-low",
+        "gpt-5-pro-2025-10-06",
+        "gpt-5.1-2025-11-13-high",
+        "gpt-5.1-2025-11-13-nothinking",
+        "gpt-5.1-codex",
+        "gpt-5.1-codex-mini",
+        "gpt-oss-120b",
+        "grok-4-0709",
+        "grok-4-1-fast-non-reasoning",
+        "grok-4-1-fast-reasoning",
+        "grok-code-fast-1-0825",
+        "kimi-k2-instruct",
+        "kimi-k2-thinking",
+        "qwen3-235b-a22b-instruct-2507",
+        "qwen3-235b-a22b-thinking-2507",
+        "qwen3-30b-a3b-thinking",
+        "qwen3-32b-thinking",
+        "qwen3-next-80b-a3b-instruct",
+        "qwen3-next-80b-a3b-thinking"
+      ],
+      "tasks": [
+        "AMPS_Hard",
+        "code_completion",
+        "code_generation",
+        "connections",
+        "javascript",
+        "math_comp",
+        "olympiad",
+        "paraphrase",
+        "plot_unscrambling",
+        "python",
+        "simplify",
+        "spatial",
+        "story_generation",
+        "summarize",
+        "tablejoin",
+        "tablereformat",
+        "typescript",
+        "typos",
+        "zebra_puzzle"
+      ],
+      "n": 46,
+      "p": 19,
+      "rank": 19,
+      "min_correlation_eigenvalue": 0.03090202326467095,
+      "zero_scores": [
+        {
+          "model": "gemini-2.5-flash-06-05-highthinking",
+          "task": "typescript"
+        },
+        {
+          "model": "gemini-2.5-flash-lite-highthinking",
+          "task": "typescript"
+        },
+        {
+          "model": "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+          "task": "python"
+        },
+        {
+          "model": "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+          "task": "typescript"
+        },
+        {
+          "model": "gpt-5-nano-low",
+          "task": "typescript"
+        },
+        {
+          "model": "qwen3-30b-a3b-thinking",
+          "task": "javascript"
+        },
+        {
+          "model": "qwen3-30b-a3b-thinking",
+          "task": "typescript"
+        },
+        {
+          "model": "qwen3-32b-thinking",
+          "task": "javascript"
+        },
+        {
+          "model": "qwen3-32b-thinking",
+          "task": "typescript"
+        },
+        {
+          "model": "qwen3-next-80b-a3b-thinking",
+          "task": "typescript"
+        }
+      ],
+      "groups": [
+        [
+          "paraphrase",
+          "simplify",
+          "story_generation",
+          "summarize",
+          "tablereformat"
+        ],
+        [
+          "code_completion",
+          "code_generation",
+          "javascript",
+          "olympiad",
+          "plot_unscrambling",
+          "python",
+          "typescript",
+          "typos"
+        ],
+        [
+          "AMPS_Hard",
+          "connections",
+          "math_comp",
+          "spatial",
+          "tablejoin",
+          "zebra_puzzle"
+        ]
+      ],
+      "fits": {
+        "1": {
+          "status": "ok",
+          "g_variance_share": 0.4101228016464663,
+          "ecv": 1.0,
+          "cfi": 0.42596987815292464,
+          "rmsea": 0.276606768666017,
+          "aic": 751.3373225874914,
+          "bic": 820.825695654077,
+          "residual_rms": 0.22376278620714893,
+          "omega_h": 0.9256303977936295,
+          "loadings": {
+            "AMPS_Hard": 0.351656728100287,
+            "code_completion": 0.7205052947098709,
+            "code_generation": 0.5133347715535658,
+            "connections": 0.6418511517793518,
+            "javascript": 0.5550485823353049,
+            "math_comp": 0.45293795732747005,
+            "olympiad": 0.9836569331699166,
+            "paraphrase": 0.6622733285538895,
+            "plot_unscrambling": 0.8939935088279874,
+            "python": 0.6719559948468536,
+            "simplify": 0.6092561202753595,
+            "spatial": 0.4273145614558463,
+            "story_generation": 0.48742145432546713,
+            "summarize": 0.5290386019560467,
+            "tablejoin": 0.6679455118432216,
+            "tablereformat": 0.6303106498708091,
+            "typescript": 0.6777231712446877,
+            "typos": 0.8075737136372799,
+            "zebra_puzzle": 0.5269824634796554
+          },
+          "resampling": {
+            "attempted": 200,
+            "admissible": 180,
+            "outcomes": {
+              "boundary": 20,
+              "ok": 180
+            },
+            "intervals": {
+              "g_variance_share": [
+                0.32327402257455495,
+                0.5384116180773898
+              ],
+              "ecv": [
+                0.9999999999999998,
+                1.0000000000000002
+              ],
+              "cfi": [
+                0.26173421570269484,
+                0.4646441893938696
+              ],
+              "rmsea": [
+                0.29479158214757845,
+                0.3708953352973399
+              ],
+              "aic": [
+                822.4118568890062,
+                1168.934545769303
+              ],
+              "bic": [
+                891.9002299555918,
+                1238.4229188358886
+              ],
+              "residual_rms": [
+                0.16443076094739753,
+                0.28561889735969254
+              ],
+              "omega_h": [
+                0.8653889354707422,
+                0.9555741288743201
+              ]
+            }
+          }
+        },
+        "3": {
+          "status": "ok",
+          "g_variance_share": 0.3329287848247172,
+          "ecv": 0.4952821361955209,
+          "cfi": 0.7464689093609975,
+          "rmsea": 0.18566914358378434,
+          "aic": 462.14167204460637,
+          "bic": 537.1159693006592,
+          "residual_rms": 0.14023815806545536,
+          "omega_h": 0.7071377425531743,
+          "loadings": {
+            "AMPS_Hard": 0.45089596442325663,
+            "code_completion": 0.5236417040905192,
+            "code_generation": 0.40086686103566255,
+            "connections": 0.4578606261383335,
+            "javascript": 0.4338314866302017,
+            "math_comp": 0.5545434300789281,
+            "olympiad": 0.6490086945420603,
+            "paraphrase": 0.7384991470075095,
+            "plot_unscrambling": 0.6231404814016909,
+            "python": 0.4956724800147347,
+            "simplify": 0.7528883073603998,
+            "spatial": 0.5819943052123269,
+            "story_generation": 0.7035066568557148,
+            "summarize": 0.7285488754902182,
+            "tablejoin": 0.4864076298650498,
+            "tablereformat": 0.5539738847370103,
+            "typescript": 0.503734991114828,
+            "typos": 0.5708683489050301,
+            "zebra_puzzle": 0.571934857105046
+          },
+          "resampling": {
+            "attempted": 200,
+            "admissible": 157,
+            "outcomes": {
+              "boundary": 43,
+              "ok": 157
+            },
+            "intervals": null
+          }
+        }
+      },
+      "paired_bootstrap": {
+        "admissible": 142,
+        "hierarchy_bic_wins": 142
+      }
+    },
+    {
+      "panel": "2025_11_25 matched",
+      "models": [
+        "claude-4-1-opus-20250805-base",
+        "claude-4-1-opus-20250805-thinking-32k",
+        "claude-4-sonnet-20250514-base",
+        "claude-4-sonnet-20250514-thinking-64k",
+        "claude-haiku-4-5-20251001",
+        "claude-haiku-4-5-20251001-thinking-64k",
+        "claude-opus-4-5-20251101-high-effort",
+        "claude-opus-4-5-20251101-low-effort",
+        "claude-opus-4-5-20251101-medium-effort",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-5-20250929-thinking-64k",
+        "deepseek-v3.2-exp",
+        "deepseek-v3.2-exp-thinking",
+        "gemini-2.5-flash-06-05-highthinking",
+        "gemini-2.5-flash-lite-highthinking",
+        "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+        "gemini-2.5-flash-preview-09-2025-highthinking",
+        "gemini-2.5-pro-06-05-highthinking",
+        "gemini-3-pro-preview-11-2025-high",
+        "gemini-3-pro-preview-11-2025-low",
+        "glm-4.6",
+        "gpt-5-mini",
+        "gpt-5-mini-high",
+        "gpt-5-mini-low",
+        "gpt-5-mini-minimal",
+        "gpt-5-nano",
+        "gpt-5-nano-high",
+        "gpt-5-nano-low",
+        "gpt-5-pro-2025-10-06",
+        "gpt-5.1-2025-11-13-high",
+        "gpt-5.1-2025-11-13-nothinking",
+        "gpt-5.1-codex",
+        "gpt-5.1-codex-mini",
+        "gpt-oss-120b",
+        "grok-4-0709",
+        "grok-4-1-fast-non-reasoning",
+        "grok-4-1-fast-reasoning",
+        "grok-code-fast-1-0825",
+        "kimi-k2-instruct",
+        "kimi-k2-thinking",
+        "qwen3-235b-a22b-instruct-2507",
+        "qwen3-235b-a22b-thinking-2507",
+        "qwen3-30b-a3b-thinking",
+        "qwen3-32b-thinking",
+        "qwen3-next-80b-a3b-instruct",
+        "qwen3-next-80b-a3b-thinking"
+      ],
+      "tasks": [
+        "AMPS_Hard",
+        "code_completion",
+        "code_generation",
+        "connections",
+        "javascript",
+        "math_comp",
+        "olympiad",
+        "paraphrase",
+        "plot_unscrambling",
+        "python",
+        "simplify",
+        "spatial",
+        "story_generation",
+        "summarize",
+        "tablejoin",
+        "tablereformat",
+        "typescript",
+        "typos",
+        "zebra_puzzle"
+      ],
+      "n": 46,
+      "p": 19,
+      "rank": 19,
+      "min_correlation_eigenvalue": 0.01749461567262368,
+      "zero_scores": [
+        {
+          "model": "gemini-2.5-flash-06-05-highthinking",
+          "task": "typescript"
+        },
+        {
+          "model": "gemini-2.5-flash-lite-highthinking",
+          "task": "typescript"
+        },
+        {
+          "model": "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+          "task": "python"
+        },
+        {
+          "model": "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+          "task": "typescript"
+        },
+        {
+          "model": "gpt-5-nano-low",
+          "task": "typescript"
+        },
+        {
+          "model": "qwen3-30b-a3b-thinking",
+          "task": "javascript"
+        },
+        {
+          "model": "qwen3-30b-a3b-thinking",
+          "task": "typescript"
+        },
+        {
+          "model": "qwen3-32b-thinking",
+          "task": "javascript"
+        },
+        {
+          "model": "qwen3-32b-thinking",
+          "task": "typescript"
+        },
+        {
+          "model": "qwen3-next-80b-a3b-thinking",
+          "task": "typescript"
+        }
+      ],
+      "groups": [
+        [
+          "paraphrase",
+          "simplify",
+          "story_generation",
+          "summarize",
+          "tablereformat"
+        ],
+        [
+          "code_completion",
+          "code_generation",
+          "javascript",
+          "olympiad",
+          "plot_unscrambling",
+          "python",
+          "typescript",
+          "typos"
+        ],
+        [
+          "AMPS_Hard",
+          "connections",
+          "math_comp",
+          "spatial",
+          "tablejoin",
+          "zebra_puzzle"
+        ]
+      ],
+      "fits": {
+        "1": {
+          "status": "ok",
+          "g_variance_share": 0.33708977140451934,
+          "ecv": 1.0,
+          "cfi": 0.43185296230617554,
+          "rmsea": 0.30172262048978965,
+          "aic": 850.6899316521434,
+          "bic": 920.178304718729,
+          "residual_rms": 0.3106090255174707,
+          "omega_h": 0.8753735305046627,
+          "loadings": {
+            "AMPS_Hard": 0.5436144357707762,
+            "code_completion": 0.08311158772422549,
+            "code_generation": 0.18463813701482631,
+            "connections": 0.6074792167702056,
+            "javascript": 0.4225331056701415,
+            "math_comp": 0.5921062215463397,
+            "olympiad": 0.2650745483541398,
+            "paraphrase": 0.9805836934693717,
+            "plot_unscrambling": 0.04408852063233697,
+            "python": 0.39413674407701377,
+            "simplify": 0.9668474810033791,
+            "spatial": 0.5981764606876128,
+            "story_generation": 0.973786872519587,
+            "summarize": 0.9844084658483584,
+            "tablejoin": 0.5060965385637026,
+            "tablereformat": 0.2307410657032547,
+            "typescript": 0.36624831418300546,
+            "typos": 0.09833921019346842,
+            "zebra_puzzle": 0.5637598351051246
+          },
+          "resampling": {
+            "attempted": 200,
+            "admissible": 200,
+            "outcomes": {
+              "ok": 200
+            },
+            "intervals": {
+              "g_variance_share": [
+                0.2957722859189678,
+                0.5246614903342361
+              ],
+              "ecv": [
+                0.9999999999999998,
+                1.0000000000000002
+              ],
+              "cfi": [
+                0.2470203139729188,
+                0.45500669913418934
+              ],
+              "rmsea": [
+                0.31797097486349274,
+                0.3987744048930576
+              ],
+              "aic": [
+                919.5619006642097,
+                1315.7041228782953
+              ],
+              "bic": [
+                989.0502737307953,
+                1385.1924959448809
+              ],
+              "residual_rms": [
+                0.18820062779106198,
+                0.3356728243810301
+              ],
+              "omega_h": [
+                0.8091068968094064,
+                0.9536980781741433
+              ]
+            }
+          }
+        },
+        "3": {
+          "status": "ok",
+          "g_variance_share": 0.3156400973096079,
+          "ecv": 0.4659215110263918,
+          "cfi": 0.7575309443053689,
+          "rmsea": 0.19908306482139518,
+          "aic": 496.7464172146483,
+          "bic": 571.7207144707012,
+          "residual_rms": 0.1650627482802521,
+          "omega_h": 0.6519051856967832,
+          "loadings": {
+            "AMPS_Hard": 0.596802954483795,
+            "code_completion": 0.28888103038312046,
+            "code_generation": 0.3253840702519246,
+            "connections": 0.6616545096893099,
+            "javascript": 0.3851617688522276,
+            "math_comp": 0.7557656912167157,
+            "olympiad": 0.32067448103922536,
+            "paraphrase": 0.774135339116363,
+            "plot_unscrambling": 0.3133896104871132,
+            "python": 0.39300211925676265,
+            "simplify": 0.7632595009505548,
+            "spatial": 0.7664707589074671,
+            "story_generation": 0.7680084345458044,
+            "summarize": 0.7705293143700772,
+            "tablejoin": 0.5989473609664648,
+            "tablereformat": 0.16427232492240543,
+            "typescript": 0.38939239513514984,
+            "typos": 0.2882660269921169,
+            "zebra_puzzle": 0.6045822308134915
+          },
+          "resampling": {
+            "attempted": 200,
+            "admissible": 109,
+            "outcomes": {
+              "ok": 109,
+              "boundary": 91
+            },
+            "intervals": null
+          }
+        }
+      },
+      "paired_bootstrap": {
+        "admissible": 109,
+        "hierarchy_bic_wins": 109
+      }
+    }
+  ],
+  "overlaps": [
+    {
+      "left": "2025_05_30",
+      "right": "2025_11_25",
+      "models": [
+        "claude-4-1-opus-20250805-base",
+        "claude-4-1-opus-20250805-thinking-32k",
+        "claude-4-sonnet-20250514-base",
+        "claude-4-sonnet-20250514-thinking-64k",
+        "claude-haiku-4-5-20251001",
+        "claude-haiku-4-5-20251001-thinking-64k",
+        "claude-opus-4-5-20251101-high-effort",
+        "claude-opus-4-5-20251101-low-effort",
+        "claude-opus-4-5-20251101-medium-effort",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-5-20250929-thinking-64k",
+        "deepseek-v3.2-exp",
+        "deepseek-v3.2-exp-thinking",
+        "gemini-2.5-flash-06-05-highthinking",
+        "gemini-2.5-flash-lite-highthinking",
+        "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+        "gemini-2.5-flash-preview-09-2025-highthinking",
+        "gemini-2.5-pro-06-05-highthinking",
+        "gemini-3-pro-preview-11-2025-high",
+        "gemini-3-pro-preview-11-2025-low",
+        "glm-4.6",
+        "gpt-5-mini",
+        "gpt-5-mini-high",
+        "gpt-5-mini-low",
+        "gpt-5-mini-minimal",
+        "gpt-5-nano",
+        "gpt-5-nano-high",
+        "gpt-5-nano-low",
+        "gpt-5-pro-2025-10-06",
+        "gpt-5.1-2025-11-13-high",
+        "gpt-5.1-2025-11-13-nothinking",
+        "gpt-5.1-codex",
+        "gpt-5.1-codex-mini",
+        "gpt-oss-120b",
+        "grok-4-0709",
+        "grok-4-1-fast-non-reasoning",
+        "grok-4-1-fast-reasoning",
+        "grok-code-fast-1-0825",
+        "kimi-k2-instruct",
+        "kimi-k2-thinking",
+        "qwen3-235b-a22b-instruct-2507",
+        "qwen3-235b-a22b-thinking-2507",
+        "qwen3-30b-a3b-thinking",
+        "qwen3-32b-thinking",
+        "qwen3-next-80b-a3b-instruct",
+        "qwen3-next-80b-a3b-thinking"
+      ],
+      "tasks": [
+        "AMPS_Hard",
+        "code_completion",
+        "code_generation",
+        "connections",
+        "javascript",
+        "math_comp",
+        "olympiad",
+        "paraphrase",
+        "plot_unscrambling",
+        "python",
+        "simplify",
+        "spatial",
+        "story_generation",
+        "summarize",
+        "tablejoin",
+        "tablereformat",
+        "typescript",
+        "typos",
+        "zebra_puzzle"
+      ]
+    },
+    {
+      "left": "2025_05_30",
+      "right": "2026_06_25",
+      "models": [],
+      "tasks": [
+        "AMPS_Hard",
+        "code_completion",
+        "code_generation",
+        "connections",
+        "javascript",
+        "math_comp",
+        "olympiad",
+        "paraphrase",
+        "plot_unscrambling",
+        "python",
+        "simplify",
+        "spatial",
+        "story_generation",
+        "summarize",
+        "tablejoin",
+        "tablereformat",
+        "typescript",
+        "typos",
+        "zebra_puzzle"
+      ]
+    },
+    {
+      "left": "2025_11_25",
+      "right": "2026_06_25",
+      "models": [
+        "claude-opus-4-5-20251101-thinking-64k-high-effort",
+        "gpt-5.2-2025-12-11-high"
+      ],
+      "tasks": [
+        "AMPS_Hard",
+        "code_completion",
+        "code_generation",
+        "connections",
+        "javascript",
+        "math_comp",
+        "olympiad",
+        "paraphrase",
+        "plot_unscrambling",
+        "python",
+        "simplify",
+        "spatial",
+        "story_generation",
+        "summarize",
+        "tablejoin",
+        "tablereformat",
+        "theory_of_mind",
+        "typescript",
+        "typos",
+        "zebra_puzzle"
+      ]
+    }
+  ],
+  "matched_comparison": {
+    "models": [
+      "claude-4-1-opus-20250805-base",
+      "claude-4-1-opus-20250805-thinking-32k",
+      "claude-4-sonnet-20250514-base",
+      "claude-4-sonnet-20250514-thinking-64k",
+      "claude-haiku-4-5-20251001",
+      "claude-haiku-4-5-20251001-thinking-64k",
+      "claude-opus-4-5-20251101-high-effort",
+      "claude-opus-4-5-20251101-low-effort",
+      "claude-opus-4-5-20251101-medium-effort",
+      "claude-sonnet-4-5-20250929",
+      "claude-sonnet-4-5-20250929-thinking-64k",
+      "deepseek-v3.2-exp",
+      "deepseek-v3.2-exp-thinking",
+      "gemini-2.5-flash-06-05-highthinking",
+      "gemini-2.5-flash-lite-highthinking",
+      "gemini-2.5-flash-lite-preview-09-2025-highthinking",
+      "gemini-2.5-flash-preview-09-2025-highthinking",
+      "gemini-2.5-pro-06-05-highthinking",
+      "gemini-3-pro-preview-11-2025-high",
+      "gemini-3-pro-preview-11-2025-low",
+      "glm-4.6",
+      "gpt-5-mini",
+      "gpt-5-mini-high",
+      "gpt-5-mini-low",
+      "gpt-5-mini-minimal",
+      "gpt-5-nano",
+      "gpt-5-nano-high",
+      "gpt-5-nano-low",
+      "gpt-5-pro-2025-10-06",
+      "gpt-5.1-2025-11-13-high",
+      "gpt-5.1-2025-11-13-nothinking",
+      "gpt-5.1-codex",
+      "gpt-5.1-codex-mini",
+      "gpt-oss-120b",
+      "grok-4-0709",
+      "grok-4-1-fast-non-reasoning",
+      "grok-4-1-fast-reasoning",
+      "grok-code-fast-1-0825",
+      "kimi-k2-instruct",
+      "kimi-k2-thinking",
+      "qwen3-235b-a22b-instruct-2507",
+      "qwen3-235b-a22b-thinking-2507",
+      "qwen3-30b-a3b-thinking",
+      "qwen3-32b-thinking",
+      "qwen3-next-80b-a3b-instruct",
+      "qwen3-next-80b-a3b-thinking"
+    ],
+    "tasks": [
+      "AMPS_Hard",
+      "code_completion",
+      "code_generation",
+      "connections",
+      "javascript",
+      "math_comp",
+      "olympiad",
+      "paraphrase",
+      "plot_unscrambling",
+      "python",
+      "simplify",
+      "spatial",
+      "story_generation",
+      "summarize",
+      "tablejoin",
+      "tablereformat",
+      "typescript",
+      "typos",
+      "zebra_puzzle"
+    ],
+    "changed_cells": 449,
+    "max_absolute_score_change": 74.5,
+    "mean_changes_by_task": {
+      "AMPS_Hard": 0.2391304347826087,
+      "code_completion": -0.23630434782608706,
+      "code_generation": 0.12247826086956538,
+      "connections": 3.510869565217391,
+      "javascript": 4.239130434782608,
+      "math_comp": -1.5584782608695664,
+      "olympiad": 7.524434782608701,
+      "paraphrase": -47.916347826086955,
+      "plot_unscrambling": 0.15160869565217383,
+      "python": 2.282608695652174,
+      "simplify": -46.36584782608695,
+      "spatial": -0.13043478260869565,
+      "story_generation": -39.95606521739131,
+      "summarize": -39.18906521739132,
+      "tablejoin": 0.045173913043478404,
+      "tablereformat": -2.173913043457748e-05,
+      "typescript": 3.260869565217391,
+      "typos": 0.043478260869565216,
+      "zebra_puzzle": -45.40217391304348
+    },
+    "interpretation": "Same IDs and task names; identical questions and scoring not verified. Not a temporal capability estimate."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tests": 39,
+  "failures": 0,
+  "bootstrap_draws": 2000,
+  "cohort_pcas_attempted": 24000,
+  "cohort_pcas_admissible": 24000,
+  "pair_comparisons_admissible": 24000,
+  "minimum_bootstrap_relative_gap": 0.6551005023508313,
+  "checks": "all pinned input/code hashes, draw dimensions, unit norms, congruence/cosine identity and angle transforms verified",
+  "plot_code_sha256": "17d57f0908d8e669ccdedb815c4494e011e6d7c655255cc15b56c93a53b3230f",
+  "test_code_sha256": "6fdc8182934f792d9fdfd6d225007757e32bb3fddabec6d312e3dab172a7dd77",
+  "scaling": "pooled reference fixed across all cases and bootstrap draws; no sample covariance regularization"
+}

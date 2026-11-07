@@ -1,0 +1,506 @@
+slug,name,shortName,releaseDate,modelCreatorName,isReasoning,isOpenWeights,battery,half,quarter
+glm-4-5v,GLM-4.5V (Non-reasoning),GLM-4.5V,2025-08-11,Z AI,False,True,nine,2025H2,2025Q3
+gemini-3-5-flash,Gemini 3.5 Flash (high),Gemini 3.5 Flash,2026-05-19,Google,True,False,nine,2026H1,2026Q2
+mimo-v2-5-pro,MiMo-V2.5-Pro,MiMo-V2.5-Pro,2026-04-22,Xiaomi,True,True,nine,2026H1,2026Q2
+jt-35b-flash,JT-35B-Flash,JT-35B-Flash,2026-05-14,China Mobile,False,False,nine,2026H1,2026Q2
+mercury-2,Mercury 2,Mercury 2,2026-02-20,Inception,True,False,nine,2026H1,2026Q1
+qwen3-5-omni-plus,Qwen3.5 Omni Plus,Qwen3.5 Omni Plus,2026-03-30,Alibaba,False,False,nine,2026H1,2026Q1
+nova-2-0-omni-reasoning-medium,Nova 2.0 Omni (medium),Nova 2.0 Omni (medium),2025-11-26,Amazon,True,False,nine,2025H2,2025Q4
+gpt-5-2-codex,GPT-5.2 Codex (xhigh),GPT-5.2 Codex (xhigh),2025-12-11,OpenAI,True,False,nine,2025H2,2025Q4
+qwen3-5-122b-a10b-non-reasoning,Qwen3.5 122B A10B (Non-reasoning),Qwen3.5 122B A10B,2026-02-24,Alibaba,False,True,nine,2026H1,2026Q1
+gemma-4-12b-non-reasoning,Gemma 4 12B (Non-reasoning),Gemma 4 12B (Non-reasoning),2026-06-03,Google,False,True,nine,2026H1,2026Q2
+gemini-3-5-flash-minimal,Gemini 3.5 Flash (minimal),Gemini 3.5 Flash (minimal),2026-05-19,Google,False,False,nine,2026H1,2026Q2
+claude-3-5-haiku,Claude 3.5 Haiku,Claude 3.5 Haiku,2024-10-22,Anthropic,False,False,nine,2024H2,2024Q4
+gemma-3-270m,Gemma 3 270M,Gemma 3 270M,2025-08-14,Google,False,True,nine,2025H2,2025Q3
+grok-4-20-0309,Grok 4.20 0309 (Reasoning),Grok 4.20 0309,2026-03-10,xAI,True,False,nine,2026H1,2026Q1
+gpt-5-1-codex,GPT-5.1 Codex (high),GPT-5.1 Codex (high),2025-11-13,OpenAI,True,False,nine,2025H2,2025Q4
+mistral-medium-3-1,Mistral Medium 3.1,Mistral Medium 3.1,2025-08-12,Mistral,False,False,nine,2025H2,2025Q3
+gpt-5-nano-minimal,GPT-5 nano (minimal),GPT-5 nano (minimal),2025-08-07,OpenAI,False,False,nine,2025H2,2025Q3
+o3-mini-high,o3-mini (high),o3-mini (high),2025-01-31,OpenAI,True,False,nine,2025H1,2025Q1
+deepseek-v3-2-0925,DeepSeek V3.2 Exp (Non-reasoning),DeepSeek V3.2 Exp,2025-09-29,DeepSeek,False,True,nine,2025H2,2025Q3
+qwen3-coder-480b-a35b-instruct,Qwen3 Coder 480B A35B Instruct,Qwen3 Coder 480B,2025-07-22,Alibaba,False,True,nine,2025H2,2025Q3
+qwen3-5-2b-non-reasoning,Qwen3.5 2B (Non-reasoning),Qwen3.5 2B,2026-03-02,Alibaba,False,True,nine,2026H1,2026Q1
+devstral-2,Devstral 2,Devstral 2,2025-12-09,Mistral,False,True,nine,2025H2,2025Q4
+deepseek-v3-1-terminus-reasoning,DeepSeek V3.1 Terminus (Reasoning),DeepSeek V3.1 Terminus,2025-09-22,DeepSeek,True,True,nine,2025H2,2025Q3
+qwen3-omni-30b-a3b-instruct,Qwen3 Omni 30B A3B Instruct,Qwen3 Omni 30B A3B,2025-09-22,Alibaba,False,True,nine,2025H2,2025Q3
+nova-2-0-pro-reasoning-medium,Nova 2.0 Pro Preview (medium),Nova 2.0 Pro Preview (medium),2025-11-27,Amazon,True,False,nine,2025H2,2025Q4
+kimi-k2-6,Kimi K2.6,Kimi K2.6,2026-04-20,Kimi,True,True,nine,2026H1,2026Q2
+deepseek-r1-0120,DeepSeek R1 (Jan '25),DeepSeek R1 (Jan),2025-01-20,DeepSeek,True,True,nine,2025H1,2025Q1
+qwen3-0.6b-instruct,Qwen3 0.6B (Non-reasoning),Qwen3 0.6B,2025-04-28,Alibaba,False,True,nine,2025H1,2025Q2
+qwen3-5-397b-a17b,Qwen3.5 397B A17B (Reasoning),Qwen3.5 397B A17B,2026-02-16,Alibaba,True,True,nine,2026H1,2026Q1
+lfm2-1-2b,LFM2 1.2B,LFM2 1.2B,2025-07-10,Liquid AI,False,True,nine,2025H2,2025Q3
+kimi-k2-6-non-reasoning,Kimi K2.6 (Non-reasoning),Kimi K2.6,2026-04-20,Kimi,False,True,nine,2026H1,2026Q2
+magistral-small,Magistral Small 1,Magistral Small 1,2025-06-10,Mistral,True,True,nine,2025H1,2025Q2
+minimax-m2-5,MiniMax-M2.5,MiniMax-M2.5,2026-02-12,MiniMax,True,True,nine,2026H1,2026Q1
+mistral-small-4-non-reasoning,Mistral Small 4 (Non-reasoning),Mistral Small 4,2026-03-16,Mistral,False,True,nine,2026H1,2026Q1
+claude-3-7-sonnet-thinking,Claude 3.7 Sonnet (Reasoning),Claude 3.7 Sonnet,2025-02-24,Anthropic,True,False,nine,2025H1,2025Q1
+mimo-v2-0206,MiMo-V2-Flash (Feb 2026),MiMo-V2-Flash (Feb 2026),2025-12-16,Xiaomi,True,True,nine,2025H2,2025Q4
+glm-5-turbo,GLM-5-Turbo,GLM-5-Turbo,2026-03-15,Z AI,True,False,nine,2026H1,2026Q1
+ling-1t,Ling-1T,Ling-1T,2025-10-08,InclusionAI,False,True,nine,2025H2,2025Q4
+gpt-oss-20b-low,gpt-oss-20b (low),gpt-oss-20b (low),2025-08-05,OpenAI,True,True,nine,2025H2,2025Q3
+qwen3-5-27b,Qwen3.5 27B (Reasoning),Qwen3.5 27B,2026-02-24,Alibaba,True,True,nine,2026H1,2026Q1
+o3,o3,o3,2025-04-16,OpenAI,True,False,nine,2025H1,2025Q2
+deepseek-v3-1-reasoning,DeepSeek V3.1 (Reasoning),DeepSeek V3.1,2025-08-21,DeepSeek,True,True,nine,2025H2,2025Q3
+llama-3-3-nemotron-super-49b-reasoning,Llama 3.3 Nemotron Super 49B v1 (Reasoning),Llama 3.3 Nemotron Super 49B,2025-03-18,NVIDIA,True,True,nine,2025H1,2025Q1
+step-3-5-flash,Step 3.5 Flash 2603,Step 3.5 Flash 2603,2026-04-02,StepFun,True,False,nine,2026H1,2026Q2
+glm-4.5,GLM-4.5 (Reasoning),GLM-4.5,2025-07-28,Z AI,True,True,nine,2025H2,2025Q3
+gemini-2-5-flash-lite,Gemini 2.5 Flash-Lite (Non-reasoning),Gemini 2.5 Flash-Lite,2025-06-17,Google,False,False,nine,2025H1,2025Q2
+north-mini-code,North Mini Code,North Mini Code,2026-06-09,Cohere,True,True,nine,2026H1,2026Q2
+gpt-5-5,GPT-5.5 (xhigh),GPT-5.5 (xhigh),2026-04-23,OpenAI,True,False,nine,2026H1,2026Q2
+nova-2-0-omni,Nova 2.0 Omni (Non-reasoning),Nova 2.0 Omni,2025-11-26,Amazon,False,False,nine,2025H2,2025Q4
+granite-4-0-micro,Granite 4.0 Micro,Granite 4.0 Micro,2025-09-22,IBM,False,True,nine,2025H2,2025Q3
+claude-3-haiku,Claude 3 Haiku,Claude 3 Haiku,2024-03-04,Anthropic,False,False,nine,2024H1,2024Q1
+qwen3-5-9b-non-reasoning,Qwen3.5 9B (Non-reasoning),Qwen3.5 9B,2026-03-02,Alibaba,False,True,nine,2026H1,2026Q1
+gemini-2-5-flash-reasoning,Gemini 2.5 Flash (Reasoning),Gemini 2.5 Flash,2025-05-20,Google,True,False,nine,2025H1,2025Q2
+gemma-3-4b,Gemma 3 4B Instruct,Gemma 3 4B,2025-03-12,Google,False,True,nine,2025H1,2025Q1
+qwen3-5-122b-a10b,Qwen3.5 122B A10B (Reasoning),Qwen3.5 122B A10B,2026-02-24,Alibaba,True,True,nine,2026H1,2026Q1
+mimo-v2-5-0424,MiMo-V2.5,MiMo-V2.5,2026-04-22,Xiaomi,True,True,nine,2026H1,2026Q2
+grok-4-1-fast-reasoning,Grok 4.1 Fast (Reasoning),Grok 4.1 Fast,2025-11-19,xAI,True,False,nine,2025H2,2025Q4
+hermes-4-llama-3-1-70b,Hermes 4 - Llama-3.1 70B (Non-reasoning),Hermes 4 70B,2025-08-27,Nous Research,False,True,nine,2025H2,2025Q3
+nvidia-nemotron-3-nano-30b-a3b,NVIDIA Nemotron 3 Nano 30B A3B (Non-reasoning),NVIDIA Nemotron 3 Nano,2025-12-15,NVIDIA,False,True,nine,2025H2,2025Q4
+grok-3,Grok 3,Grok 3,2025-02-19,xAI,False,False,nine,2025H1,2025Q1
+glm-5v-turbo,GLM 5V Turbo (Reasoning),GLM 5V Turbo,2026-04-01,Z AI,True,False,nine,2026H1,2026Q2
+mistral-small-3-1,Mistral Small 3.1,Mistral Small 3.1,2025-03-17,Mistral,False,True,nine,2025H1,2025Q1
+claude-opus-4-5-thinking,Claude Opus 4.5 (Reasoning),Claude Opus 4.5,2025-11-24,Anthropic,True,False,nine,2025H2,2025Q4
+qwen3-next-80b-a3b-instruct,Qwen3 Next 80B A3B Instruct,Qwen3 Next 80B A3B,2025-09-11,Alibaba,False,True,nine,2025H2,2025Q3
+llama-nemotron-super-49b-v1-5,Llama Nemotron Super 49B v1.5 (Non-reasoning),Llama Nemotron Super 49B v1.5,2025-07-25,NVIDIA,False,True,nine,2025H2,2025Q3
+gemini-2-5-pro,Gemini 2.5 Pro,Gemini 2.5 Pro,2025-06-05,Google,True,False,nine,2025H1,2025Q2
+minimax-m2-1,MiniMax-M2.1,MiniMax-M2.1,2025-12-23,MiniMax,True,True,nine,2025H2,2025Q4
+minimax-m3,MiniMax-M3,MiniMax-M3,2026-06-01,MiniMax,True,True,nine,2026H1,2026Q2
+mimo-v2-omni-0327,MiMo-V2-Omni-0327,MiMo-V2-Omni-0327,2026-03-27,Xiaomi,True,False,nine,2026H1,2026Q1
+gpt-5-mini,GPT-5 mini (high),GPT-5 mini (high),2025-08-07,OpenAI,True,False,nine,2025H2,2025Q3
+qwen3-4b-2507-instruct-reasoning,Qwen3 4B 2507 (Reasoning),Qwen3 4B 2507,2025-08-06,Alibaba,True,True,nine,2025H2,2025Q3
+qwen3-1.7b-instruct,Qwen3 1.7B (Non-reasoning),Qwen3 1.7B,2025-04-28,Alibaba,False,True,nine,2025H1,2025Q2
+gemma-3-27b,Gemma 3 27B Instruct,Gemma 3 27B,2025-03-12,Google,False,True,nine,2025H1,2025Q1
+glm-4-7-flash,GLM-4.7-Flash (Reasoning),GLM-4.7-Flash,2026-01-19,Z AI,True,True,nine,2026H1,2026Q1
+granite-3-3-8b-instruct,Granite 3.3 8B (Non-reasoning),Granite 3.3 8B,2025-04-16,IBM,False,True,nine,2025H1,2025Q2
+qwen3-5-9b,Qwen3.5 9B (Reasoning),Qwen3.5 9B,2026-03-02,Alibaba,True,True,nine,2026H1,2026Q1
+grok-4-fast,Grok 4 Fast (Non-reasoning),Grok 4 Fast,2025-09-19,xAI,False,False,nine,2025H2,2025Q3
+claude-sonnet-4-6,"Claude Sonnet 4.6 (Non-reasoning, High Effort)",Claude Sonnet 4.6 (Non-reasoning),2026-02-17,Anthropic,False,False,nine,2026H1,2026Q1
+ling-2-6-1t,Ling-2.6-1T,Ling-2.6-1T,2026-04-23,InclusionAI,False,True,nine,2026H1,2026Q2
+gemma-3-12b,Gemma 3 12B Instruct,Gemma 3 12B,2025-03-12,Google,False,True,nine,2025H1,2025Q1
+nvidia-nemotron-nano-9b-v2,NVIDIA Nemotron Nano 9B V2 (Non-reasoning),NVIDIA Nemotron Nano 9B V2,2025-08-18,NVIDIA,False,True,nine,2025H2,2025Q3
+command-a-plus,Command A+,Command A+,2026-05-20,Cohere,True,True,nine,2026H1,2026Q2
+exaone-4-0-32b,EXAONE 4.0 32B (Non-reasoning),EXAONE 4.0 32B,2025-07-15,LG AI Research,False,True,nine,2025H2,2025Q3
+claude-opus-4-7-non-reasoning,"Claude Opus 4.7 (Non-reasoning, High Effort)","Claude Opus 4.7 (Non-reasoning, high)",2026-04-16,Anthropic,False,False,nine,2026H1,2026Q2
+glm-4-5v-reasoning,GLM-4.5V (Reasoning),GLM-4.5V,2025-08-11,Z AI,True,True,nine,2025H2,2025Q3
+qwen3-5-4b-non-reasoning,Qwen3.5 4B (Non-reasoning),Qwen3.5 4B,2026-03-02,Alibaba,False,True,nine,2026H1,2026Q1
+qwen3-5-397b-a17b-non-reasoning,Qwen3.5 397B A17B (Non-reasoning),Qwen3.5 397B A17B,2026-02-16,Alibaba,False,True,nine,2026H1,2026Q1
+qwen3-235b-a22b-instruct-2507,Qwen3 235B A22B 2507 Instruct,Qwen3 235B 2507,2025-07-21,Alibaba,False,True,nine,2025H2,2025Q3
+olmo-3-7b-think,Olmo 3 7B Think,Olmo 3 7B Think,2025-11-20,Allen Institute for AI,True,True,nine,2025H2,2025Q4
+hyperclova-x-seed-think-32b,HyperCLOVA X SEED Think (32B),HyperCLOVA X SEED Think (32B),2025-12-26,Naver,True,True,nine,2025H2,2025Q4
+hypernova-60b,HyperNova 60B 2605,HyperNova 60B 2605,2026-05-26,Multiverse Computing,True,True,nine,2026H1,2026Q2
+nova-micro,Nova Micro,Nova Micro,2024-12-03,Amazon,False,False,nine,2024H2,2024Q4
+sarvam-m-reasoning,Sarvam M (Reasoning),Sarvam M,2025-05-23,Sarvam,True,True,nine,2025H1,2025Q2
+intellect-3,INTELLECT-3,INTELLECT-3,2025-11-27,Prime Intellect,True,True,nine,2025H2,2025Q4
+gpt-oss-20b,gpt-oss-20b (high),gpt-oss-20b (high),2025-08-05,OpenAI,True,True,nine,2025H2,2025Q3
+gpt-5-4-mini-medium,GPT-5.4 mini (medium),GPT-5.4 mini (medium),2026-03-17,OpenAI,True,False,nine,2026H1,2026Q1
+olmo-3-1-32b-think,Olmo 3.1 32B Think,Olmo 3.1 32B Think,2025-12-12,Allen Institute for AI,True,True,nine,2025H2,2025Q4
+qwen3-6-27b-non-reasoning,Qwen3.6 27B (Non-reasoning),Qwen3.6 27B,2026-04-22,Alibaba,False,True,nine,2026H1,2026Q2
+gpt-4-1,GPT-4.1,GPT-4.1,2025-04-14,OpenAI,False,False,nine,2025H1,2025Q2
+command-a,Command A,Command A,2025-03-13,Cohere,False,True,nine,2025H1,2025Q1
+lfm2-5-vl-1-6b,LFM2.5-VL-1.6B,LFM2.5-VL-1.6B,2026-01-05,Liquid AI,False,True,nine,2026H1,2026Q1
+qwen3-vl-8b-instruct,Qwen3 VL 8B Instruct,Qwen3 VL 8B,2025-10-14,Alibaba,False,True,nine,2025H2,2025Q4
+jt-mini,JT-MINI,JT-MINI,2026-04-15,China Mobile,False,False,nine,2026H1,2026Q2
+ling-mini-2-0,Ling-mini-2.0,Ling-mini-2.0,2025-09-09,InclusionAI,False,True,nine,2025H2,2025Q3
+qwen3-30b-a3b-instruct-reasoning,Qwen3 30B A3B (Reasoning),Qwen3 30B,2025-04-28,Alibaba,True,True,nine,2025H1,2025Q2
+molmo2-8b,Molmo2-8B,Molmo2-8B,2025-12-11,Allen Institute for AI,False,True,nine,2025H2,2025Q4
+mistral-small-4,Mistral Small 4 (Reasoning),Mistral Small 4,2026-03-16,Mistral,True,True,nine,2026H1,2026Q1
+qwen3-5-0-8b-non-reasoning,Qwen3.5 0.8B (Non-reasoning),Qwen3.5 0.8B,2026-03-02,Alibaba,False,True,nine,2026H1,2026Q1
+glm-5,GLM-5 (Reasoning),GLM-5,2026-02-11,Z AI,True,True,nine,2026H1,2026Q1
+claude-opus-4-5,Claude Opus 4.5 (Non-reasoning),Claude Opus 4.5,2025-11-24,Anthropic,False,False,nine,2025H2,2025Q4
+glm-4-6v,GLM-4.6V (Non-reasoning),GLM-4.6V,2025-12-08,Z AI,False,True,nine,2025H2,2025Q4
+minicpm-v4-6-1-3b,MiniCPM-V 4.6 1.3B,MiniCPM-V 4.6 1.3B,2026-05-11,OpenBMB,False,True,nine,2026H1,2026Q2
+qwen3-235b-a22b-instruct,Qwen3 235B A22B (Non-reasoning),Qwen3 235B,2025-04-28,Alibaba,False,True,nine,2025H1,2025Q2
+claude-opus-4-6,"Claude Opus 4.6 (Non-reasoning, High Effort)",Claude Opus 4.6 (high),2026-02-05,Anthropic,False,False,nine,2026H1,2026Q1
+mistral-small-3-2,Mistral Small 3.2,Mistral Small 3.2,2025-06-20,Mistral,False,True,nine,2025H1,2025Q2
+deepseek-v3,DeepSeek V3 (Dec '24),DeepSeek V3 (Dec),2024-12-26,DeepSeek,False,True,nine,2024H2,2024Q4
+kimi-k2,Kimi K2,Kimi K2,2025-07-11,Kimi,False,True,nine,2025H2,2025Q3
+exaone-4-0-32b-reasoning,EXAONE 4.0 32B (Reasoning),EXAONE 4.0 32B,2025-07-15,LG AI Research,True,True,nine,2025H2,2025Q3
+solar-pro-2,Solar Pro 2 (Non-reasoning),Solar Pro 2,2025-07-09,Upstage,False,False,nine,2025H2,2025Q3
+qwen3-14b-instruct-reasoning,Qwen3 14B (Reasoning),Qwen3 14B,2025-04-28,Alibaba,True,True,nine,2025H1,2025Q2
+sarvam-105b,Sarvam 105B (high),Sarvam 105B (high),2026-03-06,Sarvam,True,True,nine,2026H1,2026Q1
+llama-3-1-instruct-405b,Llama 3.1 Instruct 405B,Llama 3.1 405B,2024-07-23,Meta,False,True,nine,2024H2,2024Q3
+llama-3-1-instruct-70b,Llama 3.1 Instruct 70B,Llama 3.1 70B,2024-07-23,Meta,False,True,nine,2024H2,2024Q3
+qwen3-5-35b-a3b,Qwen3.5 35B A3B (Reasoning),Qwen3.5 35B A3B,2026-02-24,Alibaba,True,True,nine,2026H1,2026Q1
+mimo-v2-5-pro-non-reasoning,MiMo-V2.5-Pro (Non-reasoning),MiMo-V2.5-Pro,2026-04-22,Xiaomi,False,True,nine,2026H1,2026Q2
+ring-flash-2-0,Ring-flash-2.0,Ring-flash-2.0,2025-09-19,InclusionAI,True,True,nine,2025H2,2025Q3
+lfm2-5-1-2b-instruct,LFM2.5-1.2B-Instruct,LFM2.5-1.2B-Instruct,2026-01-05,Liquid AI,False,True,nine,2026H1,2026Q1
+gpt-5,GPT-5 (high),GPT-5 (high),2025-08-07,OpenAI,True,False,nine,2025H2,2025Q3
+mistral-large-3,Mistral Large 3,Mistral Large 3,2025-12-02,Mistral,False,True,nine,2025H2,2025Q4
+gpt-5-4-non-reasoning,GPT-5.4 (Non-reasoning),GPT-5.4 (Non-reasoning),2026-03-05,OpenAI,False,False,nine,2026H1,2026Q1
+gpt-5-2,GPT-5.2 (xhigh),GPT-5.2 (xhigh),2025-12-11,OpenAI,True,False,nine,2025H2,2025Q4
+apertus-70b-instruct,Apertus 70B Instruct,Apertus 70B Instruct,2025-09-02,Swiss AI Initiative,False,True,nine,2025H2,2025Q3
+grok-4-1-fast,Grok 4.1 Fast (Non-reasoning),Grok 4.1 Fast,2025-11-19,xAI,False,False,nine,2025H2,2025Q4
+deepseek-r1-distill-llama-70b,DeepSeek R1 Distill Llama 70B,DeepSeek R1 Distill Llama 70B,2025-01-20,DeepSeek,True,True,nine,2025H1,2025Q1
+qwen3-0.6b-instruct-reasoning,Qwen3 0.6B (Reasoning),Qwen3 0.6B,2025-04-28,Alibaba,True,True,nine,2025H1,2025Q2
+minimax-m2-7,MiniMax-M2.7,MiniMax-M2.7,2026-03-18,MiniMax,True,True,nine,2026H1,2026Q1
+doubao-seed-code,Doubao Seed Code,Doubao Seed Code,2025-11-11,ByteDance Seed,True,False,nine,2025H2,2025Q4
+gpt-5-1,GPT-5.1 (high),GPT-5.1 (high),2025-11-13,OpenAI,True,False,nine,2025H2,2025Q4
+gemini-3-5-flash-medium,Gemini 3.5 Flash (medium),Gemini 3.5 Flash (medium),2026-05-19,Google,True,False,nine,2026H1,2026Q2
+exaone-4-5-33b,EXAONE 4.5 33B,EXAONE 4.5 33B,2026-04-09,LG AI Research,True,True,nine,2026H1,2026Q2
+qwen3-5-27b-non-reasoning,Qwen3.5 27B (Non-reasoning),Qwen3.5 27B,2026-02-24,Alibaba,False,True,nine,2026H1,2026Q1
+mistral-large-2,Mistral Large 2 (Nov '24),Mistral Large 2 (Nov),2024-11-18,Mistral,False,True,nine,2024H2,2024Q4
+qwen3-vl-30b-a3b-instruct,Qwen3 VL 30B A3B Instruct,Qwen3 VL 30B A3B,2025-10-03,Alibaba,False,True,nine,2025H2,2025Q4
+grok-4-20-0309-non-reasoning,Grok 4.20 0309 (Non-reasoning),Grok 4.20 0309,2026-03-10,xAI,False,False,nine,2026H1,2026Q1
+deepseek-v3-2-speciale,DeepSeek V3.2 Speciale,DeepSeek V3.2 Speciale,2025-12-01,DeepSeek,True,True,nine,2025H2,2025Q4
+gemma-4-e4b-non-reasoning,Gemma 4 E4B (Non-reasoning),Gemma 4 E4B,2026-04-03,Google,False,True,nine,2026H1,2026Q2
+gpt-5-4-low,GPT-5.4 (low),GPT-5.4 (low),2026-03-05,OpenAI,True,False,nine,2026H1,2026Q1
+claude-opus-4-6-adaptive,"Claude Opus 4.6 (Adaptive Reasoning, Max Effort)",Claude Opus 4.6 (max),2026-02-05,Anthropic,True,False,nine,2026H1,2026Q1
+nova-pro,Nova Pro,Nova Pro,2024-12-03,Amazon,False,False,nine,2024H2,2024Q4
+granite-4-0-350m,Granite 4.0 350M,Granite 4.0 350M,2025-10-28,IBM,False,True,nine,2025H2,2025Q4
+grok-4-fast-reasoning,Grok 4 Fast (Reasoning),Grok 4 Fast,2025-09-19,xAI,True,False,nine,2025H2,2025Q3
+qwen3-1.7b-instruct-reasoning,Qwen3 1.7B (Reasoning),Qwen3 1.7B,2025-04-28,Alibaba,True,True,nine,2025H1,2025Q2
+gemini-3-1-flash-lite-preview,Gemini 3.1 Flash-Lite,Gemini 3.1 Flash-Lite,2026-03-03,Google,True,False,nine,2026H1,2026Q1
+solar-open-100b-reasoning,Solar Open 100B (Reasoning),Solar Open 100B,2025-12-17,Upstage,True,True,nine,2025H2,2025Q4
+gpt-5-3-codex,GPT-5.3 Codex (xhigh),GPT-5.3 Codex (xhigh),2026-02-05,OpenAI,True,False,nine,2026H1,2026Q1
+mistral-medium-3,Mistral Medium 3,Mistral Medium 3,2025-05-07,Mistral,False,False,nine,2025H1,2025Q2
+lfm2-5-1-2b-thinking,LFM2.5-1.2B-Thinking,LFM2.5-1.2B-Thinking,2026-01-20,Liquid AI,True,True,nine,2026H1,2026Q1
+k2-think-v2,K2 Think V2,K2 Think V2,2025-12-15,MBZUAI Institute of Foundation Models,True,True,nine,2025H2,2025Q4
+glm-5-1,GLM-5.1 (Reasoning),GLM-5.1,2026-04-07,Z AI,True,True,nine,2026H1,2026Q2
+o1,o1,o1,2024-12-05,OpenAI,True,False,nine,2024H2,2024Q4
+qwen3-max-preview,Qwen3 Max (Preview),Qwen3 Max (Preview),2025-09-05,Alibaba,False,False,nine,2025H2,2025Q3
+nvidia-nemotron-3-ultra-550b-a55b,Nemotron 3 Ultra 550B A55B (Reasoning),Nemotron 3 Ultra,2026-06-04,NVIDIA,True,True,nine,2026H1,2026Q2
+nova-lite,Nova Lite,Nova Lite,2024-12-03,Amazon,False,False,nine,2024H2,2024Q4
+seed-oss-36b-instruct,Seed-OSS-36B-Instruct,Seed-OSS-36B-Instruct,2025-08-20,ByteDance Seed,True,True,nine,2025H2,2025Q3
+gpt-5-codex,GPT-5 Codex (high),GPT-5 Codex (high),2025-09-23,OpenAI,True,False,nine,2025H2,2025Q3
+glm-4-5-air,GLM-4.5-Air,GLM-4.5-Air,2025-07-28,Z AI,True,True,nine,2025H2,2025Q3
+qwen3-5-2b,Qwen3.5 2B (Reasoning),Qwen3.5 2B,2026-03-02,Alibaba,True,True,nine,2026H1,2026Q1
+mimo-v2-pro,MiMo-V2-Pro,MiMo-V2-Pro,2026-03-18,Xiaomi,True,False,nine,2026H1,2026Q1
+tri-21b-think-v0-5,Tri-21B-Think,Tri-21B-Think,2026-02-10,Trillion Labs,True,True,nine,2026H1,2026Q1
+deepseek-v4-pro-high,"DeepSeek V4 Pro (Reasoning, High Effort)",DeepSeek V4 Pro (high),2026-04-24,DeepSeek,True,True,nine,2026H1,2026Q2
+granite-4-0-h-small,Granite 4.0 H Small,Granite 4.0 H Small,2025-09-22,IBM,False,True,nine,2025H2,2025Q3
+qwen3-30b-a3b-2507-reasoning,Qwen3 30B A3B 2507 (Reasoning),Qwen3 30B A3B 2507,2025-07-30,Alibaba,True,True,nine,2025H2,2025Q3
+grok-4-3-medium,Grok 4.3 (medium),Grok 4.3 (medium),2026-04-30,xAI,True,False,nine,2026H1,2026Q2
+gpt-5-medium,GPT-5 (medium),GPT-5 (medium),2025-08-07,OpenAI,True,False,nine,2025H2,2025Q3
+grok-4,Grok 4,Grok 4,2025-07-10,xAI,True,False,nine,2025H2,2025Q3
+llama-3-2-instruct-11b-vision,Llama 3.2 Instruct 11B (Vision),Llama 3.2 11B (Vision),2024-09-25,Meta,False,True,nine,2024H2,2024Q3
+deepseek-r1-qwen3-8b,DeepSeek R1 0528 Qwen3 8B,DeepSeek R1 0528 Qwen3 8B,2025-05-29,DeepSeek,True,True,nine,2025H1,2025Q2
+qwen3-6-max,Qwen3.6 Max Preview,Qwen3.6 Max Preview,2026-04-20,Alibaba,True,False,nine,2026H1,2026Q2
+longcat-flash-lite,LongCat Flash Lite,LongCat Flash Lite,2026-01-28,LongCat,False,True,nine,2026H1,2026Q1
+tri-21b-think-preview,Tri-21B-think Preview,Tri-21B-think Preview,2026-02-10,Trillion Labs,True,True,nine,2026H1,2026Q1
+nova-2-0-lite-reasoning,Nova 2.0 Lite (high),Nova 2.0 Lite (high),2025-10-29,Amazon,True,False,nine,2025H2,2025Q4
+nvidia-nemotron-3-super-120b-a12b,NVIDIA Nemotron 3 Super 120B A12B (Reasoning),NVIDIA Nemotron 3 Super,2026-03-11,NVIDIA,True,True,nine,2026H1,2026Q1
+grok-4-20-non-reasoning,Grok 4.20 0309 v2 (Non-reasoning),Grok 4.20 0309 v2,2026-04-07,xAI,False,False,nine,2026H1,2026Q2
+qwen3-5-4b,Qwen3.5 4B (Reasoning),Qwen3.5 4B,2026-03-02,Alibaba,True,True,nine,2026H1,2026Q1
+magistral-medium,Magistral Medium 1,Magistral Medium 1,2025-06-10,Mistral,True,False,nine,2025H1,2025Q2
+kimi-k2-0905,Kimi K2 0905,Kimi K2 0905,2025-09-05,Kimi,False,True,nine,2025H2,2025Q3
+motif-2-12-7b,Motif-2-12.7B-Reasoning,Motif-2-12.7B,2025-12-04,Motif Technologies,True,False,nine,2025H2,2025Q4
+qwen3-6-35b-a3b-non-reasoning,Qwen3.6 35B A3B (Non-reasoning),Qwen3.6 35B A3B,2026-04-16,Alibaba,False,True,nine,2026H1,2026Q2
+ministral-3-3b,Ministral 3 3B,Ministral 3 3B,2025-12-02,Mistral,False,True,nine,2025H2,2025Q4
+lfm2-8b-a1b,LFM2 8B A1B,LFM2 8B A1B,2025-10-07,Liquid AI,False,True,nine,2025H2,2025Q4
+qwen3-7-max,Qwen3.7 Max,Qwen3.7 Max,2026-05-19,Alibaba,True,False,nine,2026H1,2026Q2
+glm-4-6-reasoning,GLM-4.6 (Reasoning),GLM-4.6,2025-09-30,Z AI,True,True,nine,2025H2,2025Q3
+gemini-2-5-flash,Gemini 2.5 Flash (Non-reasoning),Gemini 2.5 Flash,2025-05-20,Google,False,False,nine,2025H1,2025Q2
+gpt-5-5-medium,GPT-5.5 (medium),GPT-5.5 (medium),2026-04-23,OpenAI,True,False,nine,2026H1,2026Q2
+hermes-4-llama-3-1-70b-reasoning,Hermes 4 - Llama-3.1 70B (Reasoning),Hermes 4 70B,2025-08-27,Nous Research,True,True,nine,2025H2,2025Q3
+step-3-7-flash,Step 3.7 Flash,Step 3.7 Flash,2026-05-29,StepFun,True,True,nine,2026H1,2026Q2
+deepseek-v3-2,DeepSeek V3.2 (Non-reasoning),DeepSeek V3.2,2025-12-01,DeepSeek,False,True,nine,2025H2,2025Q4
+qwen3-vl-32b-instruct,Qwen3 VL 32B Instruct,Qwen3 VL 32B,2025-10-21,Alibaba,False,True,nine,2025H2,2025Q4
+gpt-5-2-non-reasoning,GPT-5.2 (Non-reasoning),GPT-5.2,2025-12-11,OpenAI,False,False,nine,2025H2,2025Q4
+gemma-4-26b-a4b,Gemma 4 26B A4B (Reasoning),Gemma 4 26B A4B,2026-04-02,Google,True,True,nine,2026H1,2026Q2
+deepseek-v4-pro-non-reasoning,DeepSeek V4 Pro (Non-reasoning),DeepSeek V4 Pro,2026-04-24,DeepSeek,False,True,nine,2026H1,2026Q2
+nvidia-nemotron-nano-12b-v2-vl-reasoning,NVIDIA Nemotron Nano 12B v2 VL (Reasoning),NVIDIA Nemotron Nano 12B v2 VL,2025-10-28,NVIDIA,True,True,nine,2025H2,2025Q4
+gpt-5-5-non-reasoning,GPT-5.5 (Non-reasoning),GPT-5.5 (Non-reasoning),2026-04-23,OpenAI,False,False,nine,2026H1,2026Q2
+qwen3-5-omni-flash,Qwen3.5 Omni Flash,Qwen3.5 Omni Flash,2026-03-30,Alibaba,False,False,nine,2026H1,2026Q1
+glm-4-7,GLM-4.7 (Reasoning),GLM-4.7,2025-12-22,Z AI,True,True,nine,2025H2,2025Q4
+nova-2-0-lite-reasoning-low,Nova 2.0 Lite (low),Nova 2.0 Lite (low),2025-10-29,Amazon,True,False,nine,2025H2,2025Q4
+magistral-small-2509,Magistral Small 1.2,Magistral Small 1.2,2025-09-17,Mistral,True,True,nine,2025H2,2025Q3
+gemma-4-26b-a4b-non-reasoning,Gemma 4 26B A4B (Non-reasoning),Gemma 4 26B A4B,2026-04-02,Google,False,True,nine,2026H1,2026Q2
+ministral-3-14b,Ministral 3 14B,Ministral 3 14B,2025-12-02,Mistral,False,True,nine,2025H2,2025Q4
+k-exaone,K-EXAONE (Reasoning),K-EXAONE,2025-12-31,LG AI Research,True,True,nine,2025H2,2025Q4
+gemini-2-5-flash-lite-preview-09-2025,Gemini 2.5 Flash-Lite Preview (Sep '25) (Non-reasoning),Gemini 2.5 Flash-Lite (Sep),2025-09-25,Google,False,False,nine,2025H2,2025Q3
+gpt-4-1-nano,GPT-4.1 nano,GPT-4.1 nano,2025-04-14,OpenAI,False,False,nine,2025H1,2025Q2
+llama-3-1-nemotron-instruct-70b,Llama 3.1 Nemotron Instruct 70B,Llama 3.1 Nemotron 70B,2024-10-15,NVIDIA,False,True,nine,2024H2,2024Q4
+llama-3-1-instruct-8b,Llama 3.1 Instruct 8B,Llama 3.1 8B,2024-07-23,Meta,False,True,nine,2024H2,2024Q3
+lfm2-2-6b,LFM2 2.6B,LFM2 2.6B,2025-09-23,Liquid AI,False,True,nine,2025H2,2025Q3
+gemma-4-e2b-non-reasoning,Gemma 4 E2B (Non-reasoning),Gemma 4 E2B,2026-04-02,Google,False,True,nine,2026H1,2026Q2
+deepseek-v3-0324,DeepSeek V3 0324,DeepSeek V3 0324,2025-03-25,DeepSeek,False,True,nine,2025H1,2025Q1
+sarvam-30b,Sarvam 30B (high),Sarvam 30B (high),2026-03-06,Sarvam,True,True,nine,2026H1,2026Q1
+nova-2-0-lite,Nova 2.0 Lite (Non-reasoning),Nova 2.0 Lite,2025-10-29,Amazon,False,False,nine,2025H2,2025Q4
+nvidia-nemotron-3-nano-30b-a3b-reasoning,NVIDIA Nemotron 3 Nano 30B A3B (Reasoning),NVIDIA Nemotron 3 Nano,2025-12-15,NVIDIA,True,True,nine,2025H2,2025Q4
+minicpm5-1b,MiniCPM5-1B (Reasoning),MiniCPM5-1B,2026-05-25,OpenBMB,True,True,nine,2026H1,2026Q2
+gemini-3-flash,Gemini 3 Flash Preview (Non-reasoning),Gemini 3 Flash,2025-12-17,Google,False,False,nine,2025H2,2025Q4
+jamba-1-7-large,Jamba 1.7 Large,Jamba 1.7 Large,2025-07-07,AI21 Labs,False,True,nine,2025H2,2025Q3
+qwen3-max,Qwen3 Max,Qwen3 Max,2025-09-23,Alibaba,False,False,nine,2025H2,2025Q3
+gemini-3-flash-reasoning,Gemini 3 Flash Preview (Reasoning),Gemini 3 Flash,2025-12-17,Google,True,False,nine,2025H2,2025Q4
+nanbeige4-1-3b,Nanbeige4.1-3B,Nanbeige4.1-3B,2026-02-11,Nanbeige,True,True,nine,2026H1,2026Q1
+qwen3-30b-a3b-2507,Qwen3 30B A3B 2507 Instruct,Qwen3 30B A3B 2507,2025-07-29,Alibaba,False,True,nine,2025H2,2025Q3
+gpt-5-low,GPT-5 (low),GPT-5 (low),2025-08-07,OpenAI,True,False,nine,2025H2,2025Q3
+qwen3-max-thinking,Qwen3 Max Thinking,Qwen3 Max Thinking,2026-01-26,Alibaba,True,False,nine,2026H1,2026Q1
+llama-3-2-instruct-1b,Llama 3.2 Instruct 1B,Llama 3.2 1B,2024-09-25,Meta,False,True,nine,2024H2,2024Q3
+tiny-aya-global,Tiny Aya Global,Tiny Aya Global,2026-02-17,Cohere,False,True,nine,2026H1,2026Q1
+glm-4-7-non-reasoning,GLM-4.7 (Non-reasoning),GLM-4.7,2025-12-22,Z AI,False,True,nine,2025H2,2025Q4
+exaone-4-0-1-2b,Exaone 4.0 1.2B (Non-reasoning),Exaone 4.0 1.2B,2025-07-15,LG AI Research,False,True,nine,2025H2,2025Q3
+llama-3-instruct-8b,Llama 3 Instruct 8B,Llama 3 8B,2024-04-18,Meta,False,True,nine,2024H1,2024Q2
+hermes-4-llama-3-1-405b-reasoning,Hermes 4 - Llama-3.1 405B (Reasoning),Hermes 4 405B,2025-08-27,Nous Research,True,True,nine,2025H2,2025Q3
+mimo-v2-flash,MiMo-V2-Flash (Non-reasoning),MiMo-V2-Flash,2025-12-16,Xiaomi,False,True,nine,2025H2,2025Q4
+granite-4-1-8b,Granite 4.1 8B,Granite 4.1 8B,2026-04-29,IBM,False,True,nine,2026H1,2026Q2
+gemini-2-5-flash-lite-preview-09-2025-reasoning,Gemini 2.5 Flash-Lite Preview (Sep '25) (Reasoning),Gemini 2.5 Flash-Lite (Sep),2025-09-08,Google,True,False,nine,2025H2,2025Q3
+o4-mini,o4-mini (high),o4-mini (high),2025-04-16,OpenAI,True,False,nine,2025H1,2025Q2
+gpt-5-2-medium,GPT-5.2 (medium),GPT-5.2 (medium),2025-12-11,OpenAI,True,False,nine,2025H2,2025Q4
+magistral-medium-2509,Magistral Medium 1.2,Magistral Medium 1.2,2025-09-18,Mistral,True,False,nine,2025H2,2025Q3
+qwen3-6-35b-a3b,Qwen3.6 35B A3B (Reasoning),Qwen3.6 35B A3B,2026-04-16,Alibaba,True,True,nine,2026H1,2026Q2
+gemini-2-5-flash-preview-09-2025,Gemini 2.5 Flash Preview (Sep '25) (Non-reasoning),Gemini 2.5 Flash (Sep),2025-09-25,Google,False,False,nine,2025H2,2025Q3
+ling-flash-2-0,Ling-flash-2.0,Ling-flash-2.0,2025-09-17,InclusionAI,False,True,nine,2025H2,2025Q3
+gpt-5-4-nano-medium,GPT-5.4 nano (medium),GPT-5.4 nano,2026-03-17,OpenAI,True,False,nine,2026H1,2026Q1
+apertus-8b-instruct,Apertus 8B Instruct,Apertus 8B Instruct,2025-09-02,Swiss AI Initiative,False,True,nine,2025H2,2025Q3
+deepseek-v4-flash-high,"DeepSeek V4 Flash (Reasoning, High Effort)",DeepSeek V4 Flash (high),2026-04-24,DeepSeek,True,True,nine,2026H1,2026Q2
+gpt-4o-2024-08-06,GPT-4o (Aug '24),GPT-4o (Aug),2024-08-06,OpenAI,False,False,nine,2024H2,2024Q3
+qwen3-6-27b,Qwen3.6 27B (Reasoning),Qwen3.6 27B,2026-04-22,Alibaba,True,True,nine,2026H1,2026Q2
+nemotron-3-nano-omni-30b-a3b,Nemotron 3 Nano Omni 30B A3B Reasoning,Nemotron 3 Nano Omni 30B A3B Reasoning,2026-04-29,NVIDIA,True,True,nine,2026H1,2026Q2
+hy3,Hy3-preview (Reasoning),Hy3-preview,2026-04-23,Tencent,True,True,nine,2026H1,2026Q2
+kimi-k2-7-code,Kimi K2.7 Code,Kimi K2.7 Code,2026-06-12,Kimi,True,True,nine,2026H1,2026Q2
+gpt-5-nano-medium,GPT-5 nano (medium),GPT-5 nano (medium),2025-08-07,OpenAI,True,False,nine,2025H2,2025Q3
+olmo-3-7b-instruct,Olmo 3 7B Instruct,Olmo 3 7B,2025-11-20,Allen Institute for AI,False,True,nine,2025H2,2025Q4
+grok-4-3-non-reasoning,Grok 4.3 (Non-reasoning),Grok 4.3 (Non-reasoning),2026-04-30,xAI,False,False,nine,2026H1,2026Q2
+claude-4-5-sonnet-thinking,Claude 4.5 Sonnet (Reasoning),Claude 4.5 Sonnet,2025-09-29,Anthropic,True,False,nine,2025H2,2025Q3
+claude-4-5-sonnet,Claude 4.5 Sonnet (Non-reasoning),Claude 4.5 Sonnet,2025-09-29,Anthropic,False,False,nine,2025H2,2025Q3
+granite-4-1-3b,Granite 4.1 3B,Granite 4.1 3B,2026-04-29,IBM,False,True,nine,2026H1,2026Q2
+ling-2-6-flash,Ling 2.6 Flash,Ling 2.6 Flash,2026-04-21,InclusionAI,False,True,nine,2026H1,2026Q2
+llama-4-maverick,Llama 4 Maverick,Llama 4 Maverick,2025-04-05,Meta,False,True,nine,2025H1,2025Q2
+glm-5-1-non-reasoning,GLM-5.1 (Non-reasoning),GLM-5.1,2026-04-07,Z AI,False,True,nine,2026H1,2026Q2
+glm-4-6,GLM-4.6 (Non-reasoning),GLM-4.6,2025-09-30,Z AI,False,True,nine,2025H2,2025Q3
+grok-4-3,Grok 4.3 (high),Grok 4.3 (high),2026-04-30,xAI,True,False,nine,2026H1,2026Q2
+olmo-3-1-32b-instruct,Olmo 3.1 32B Instruct,Olmo 3.1 32B Instruct,2026-01-13,Allen Institute for AI,False,True,nine,2026H1,2026Q1
+mimo-v2-omni,MiMo-V2-Omni,MiMo-V2-Omni,2026-03-19,Xiaomi,True,False,nine,2026H1,2026Q1
+ministral-3-8b,Ministral 3 8B,Ministral 3 8B,2025-12-02,Mistral,False,True,nine,2025H2,2025Q4
+llama-3-3-instruct-70b,Llama 3.3 Instruct 70B,Llama 3.3 70B,2024-12-06,Meta,False,True,nine,2024H2,2024Q4
+nemotron-cascade-2-30b-a3b,Nemotron Cascade 2 30B A3B,Nemotron Cascade 2 30B A3B,2026-03-19,NVIDIA,True,True,nine,2026H1,2026Q1
+claude-opus-4-8,"Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",Claude Opus 4.8 (max),2026-05-28,Anthropic,True,False,nine,2026H1,2026Q2
+minimax-m1-80k,MiniMax M1 80k,MiniMax M1 80k,2025-06-17,MiniMax,True,True,nine,2025H1,2025Q2
+k-exaone-non-reasoning,K-EXAONE (Non-reasoning),K-EXAONE,2025-12-31,LG AI Research,False,True,nine,2025H2,2025Q4
+qwen3-8b-instruct-reasoning,Qwen3 8B (Reasoning),Qwen3 8B,2025-04-28,Alibaba,True,True,nine,2025H1,2025Q2
+devstral-small,Devstral Small (Jul '25),Devstral Small,2025-07-10,Mistral,False,True,nine,2025H2,2025Q3
+nvidia-nemotron-3-nano-4b,NVIDIA Nemotron 3 Nano 4B,NVIDIA Nemotron 3 Nano 4B,2026-03-16,NVIDIA,True,True,nine,2026H1,2026Q1
+gpt-4-1-mini,GPT-4.1 mini,GPT-4.1 mini,2025-04-14,OpenAI,False,False,nine,2025H1,2025Q2
+phi-4-mini,Phi-4 Mini Instruct,Phi-4 Mini,2024-02-26,Microsoft,False,True,nine,2024H1,2024Q1
+grok-code-fast-1,Grok Code Fast 1,Grok Code Fast 1,2025-08-28,xAI,True,False,nine,2025H2,2025Q3
+nova-2-0-pro,Nova 2.0 Pro Preview (Non-reasoning),Nova 2.0 Pro Preview,2025-11-27,Amazon,False,False,nine,2025H2,2025Q4
+ring-1t,Ring-1T,Ring-1T,2025-10-13,InclusionAI,True,True,nine,2025H2,2025Q4
+granite-4-0-nano-1b,Granite 4.0 1B,Granite 4.0 1B,2025-10-28,IBM,False,True,nine,2025H2,2025Q4
+k2-v2,K2-V2 (high),K2-V2 (high),2025-12-05,MBZUAI Institute of Foundation Models,True,True,nine,2025H2,2025Q4
+ernie-5-0-thinking-preview,ERNIE 5.0 Thinking Preview,ERNIE 5.0 Thinking Preview,2025-11-13,Baidu,True,False,nine,2025H2,2025Q4
+kimi-k2-5,Kimi K2.5 (Reasoning),Kimi K2.5,2026-01-27,Kimi,True,True,nine,2026H1,2026Q1
+claude-4-5-haiku-reasoning,Claude 4.5 Haiku (Reasoning),Claude 4.5 Haiku,2025-10-15,Anthropic,True,False,nine,2025H2,2025Q4
+granite-4-0-h-350m,Granite 4.0 H 350M,Granite 4.0 H 350M,2025-10-28,IBM,False,True,nine,2025H2,2025Q4
+qwen3-5-0-8b,Qwen3.5 0.8B (Reasoning),Qwen3.5 0.8B,2026-03-02,Alibaba,True,True,nine,2026H1,2026Q1
+apriel-v1-6-15b-thinker,Apriel-v1.6-15B-Thinker,Apriel-v1.6-15B-Thinker,2025-11-25,ServiceNow,True,True,nine,2025H2,2025Q4
+claude-4-sonnet-thinking,Claude 4 Sonnet (Reasoning),Claude 4 Sonnet,2025-05-22,Anthropic,True,False,nine,2025H1,2025Q2
+gemma-3n-e4b,Gemma 3n E4B Instruct,Gemma 3n E4B,2025-06-26,Google,False,True,nine,2025H1,2025Q2
+qwen3-vl-235b-a22b-reasoning,Qwen3 VL 235B A22B (Reasoning),Qwen3 VL 235B A22B,2025-09-23,Alibaba,True,True,nine,2025H2,2025Q3
+deepseek-r1,DeepSeek R1 0528 (May '25),DeepSeek R1 0528,2025-05-28,DeepSeek,True,True,nine,2025H1,2025Q2
+qwen3-7-plus,Qwen3.7 Plus,Qwen3.7 Plus,2026-06-01,Alibaba,True,False,nine,2026H1,2026Q2
+gpt-5-4,GPT-5.4 (xhigh),GPT-5.4 (xhigh),2026-03-05,OpenAI,True,False,nine,2026H1,2026Q1
+gemma-3n-e2b,Gemma 3n E2B Instruct,Gemma 3n E2B,2025-06-26,Google,False,True,nine,2025H1,2025Q2
+llama-3-instruct-70b,Llama 3 Instruct 70B,Llama 3 70B,2024-04-18,Meta,False,True,nine,2024H1,2024Q2
+nvidia-nemotron-nano-12b-v2-vl,NVIDIA Nemotron Nano 12B v2 VL (Non-reasoning),NVIDIA Nemotron Nano 12B v2 VL,2025-10-28,NVIDIA,False,True,nine,2025H2,2025Q4
+devstral-medium,Devstral Medium,Devstral Medium,2025-07-10,Mistral,False,False,nine,2025H2,2025Q3
+apriel-v1-5-15b-thinker,Apriel-v1.5-15B-Thinker,Apriel-v1.5-15B-Thinker,2025-09-30,ServiceNow,True,True,nine,2025H2,2025Q3
+step-3-vl-10b,Step3 VL 10B,Step3 VL 10B,2026-01-20,StepFun,True,True,nine,2026H1,2026Q1
+deepseek-v4-flash-non-reasoning,DeepSeek V4 Flash (Non-reasoning),DeepSeek V4 Flash,2026-04-24,DeepSeek,False,True,nine,2026H1,2026Q2
+llama-4-scout,Llama 4 Scout,Llama 4 Scout,2025-04-05,Meta,False,True,nine,2025H1,2025Q2
+gpt-5-4-mini-non-reasoning,GPT-5.4 mini (Non-Reasoning),GPT-5.4 mini,2026-03-17,OpenAI,False,False,nine,2026H1,2026Q1
+ernie-4-5-300b-a47b,ERNIE 4.5 300B A47B,ERNIE 4.5 300B A47B,2025-06-30,Baidu,False,True,nine,2025H1,2025Q2
+deepseek-v3-2-reasoning-0925,DeepSeek V3.2 Exp (Reasoning),DeepSeek V3.2 Exp,2025-09-29,DeepSeek,True,True,nine,2025H2,2025Q3
+qwen3-32b-instruct-reasoning,Qwen3 32B (Reasoning),Qwen3 32B,2025-04-28,Alibaba,True,True,nine,2025H1,2025Q2
+qwen3-4b-2507-instruct,Qwen3 4B 2507 Instruct,Qwen3 4B 2507,2025-08-06,Alibaba,False,True,nine,2025H2,2025Q3
+gemma-4-e2b,Gemma 4 E2B (Reasoning),Gemma 4 E2B,2026-04-02,Google,True,True,nine,2026H1,2026Q2
+gpt-5-5-high,GPT-5.5 (high),GPT-5.5 (high),2026-04-23,OpenAI,True,False,nine,2026H1,2026Q2
+qwen3-8b-instruct,Qwen3 8B (Non-reasoning),Qwen3 8B,2025-04-28,Alibaba,False,True,nine,2025H1,2025Q2
+gemini-3-pro-low,Gemini 3 Pro Preview (low),Gemini 3 Pro Preview (low),2025-11-18,Google,True,False,nine,2025H2,2025Q4
+nova-2-0-omni-reasoning-low,Nova 2.0 Omni (low),Nova 2.0 Omni (low),2025-11-26,Amazon,True,False,nine,2025H2,2025Q4
+jamba-1-7-mini,Jamba 1.7 Mini,Jamba 1.7 Mini,2025-07-07,AI21 Labs,False,True,nine,2025H2,2025Q3
+qwen2-5-72b-instruct,Qwen2.5 Instruct 72B,Qwen2.5 72B,2024-09-19,Alibaba,False,True,nine,2024H2,2024Q3
+hy3-non-reasoning,Hy3-preview (Non-reasoning),Hy3-preview,2026-04-23,Tencent,False,True,nine,2026H1,2026Q2
+trinity-large-thinking,Trinity Large Thinking,Trinity Large Thinking,2026-04-01,Arcee AI,True,True,nine,2026H1,2026Q2
+solar-pro-3,Solar Pro 3,Solar Pro 3,2026-04-06,Upstage,True,False,nine,2026H1,2026Q2
+qwen3-omni-30b-a3b-reasoning,Qwen3 Omni 30B A3B (Reasoning),Qwen3 Omni 30B A3B,2025-09-22,Alibaba,True,True,nine,2025H2,2025Q3
+kimi-k2-5-non-reasoning,Kimi K2.5 (Non-reasoning),Kimi K2.5,2026-01-27,Kimi,False,True,nine,2026H1,2026Q1
+gpt-5-4-mini,GPT-5.4 mini (xhigh),GPT-5.4 mini (xhigh),2026-03-17,OpenAI,True,False,nine,2026H1,2026Q1
+gemini-3-1-pro-preview,Gemini 3.1 Pro Preview,Gemini 3.1 Pro Preview,2026-02-19,Google,True,False,nine,2026H1,2026Q1
+qwen3-235b-a22b-instruct-reasoning,Qwen3 235B A22B (Reasoning),Qwen3 235B,2025-04-28,Alibaba,True,True,nine,2025H1,2025Q2
+gpt-5-mini-minimal,GPT-5 mini (minimal),GPT-5 mini (minimal),2025-08-07,OpenAI,False,False,nine,2025H2,2025Q3
+gemini-2-0-flash,Gemini 2.0 Flash (Feb '25),Gemini 2.0 Flash,2025-02-05,Google,False,False,nine,2025H1,2025Q1
+kimi-k2-thinking,Kimi K2 Thinking,Kimi K2 Thinking,2025-11-06,Kimi,True,True,nine,2025H2,2025Q4
+mimo-v2-flash-reasoning,MiMo-V2-Flash (Reasoning),MiMo-V2-Flash,2025-12-16,Xiaomi,True,True,nine,2025H2,2025Q4
+deepseek-v4-pro,"DeepSeek V4 Pro (Reasoning, Max Effort)",DeepSeek V4 Pro (max),2026-04-24,DeepSeek,True,True,nine,2026H1,2026Q2
+gpt-4o,GPT-4o (Nov '24),GPT-4o (Nov),2024-11-20,OpenAI,False,False,nine,2024H2,2024Q4
+gpt-5-4-nano-non-reasoning,GPT-5.4 nano (Non-Reasoning),GPT-5.4 nano,2026-03-17,OpenAI,False,False,nine,2026H1,2026Q1
+claude-4-5-haiku,Claude 4.5 Haiku (Non-reasoning),Claude 4.5 Haiku,2025-10-15,Anthropic,False,False,nine,2025H2,2025Q4
+gpt-5-mini-medium,GPT-5 mini (medium),GPT-5 mini (medium),2025-08-07,OpenAI,True,False,nine,2025H2,2025Q3
+gpt-5-minimal,GPT-5 (minimal),GPT-5 (minimal),2025-08-07,OpenAI,False,False,nine,2025H2,2025Q3
+grok-4-20,Grok 4.20 0309 v2 (Reasoning),Grok 4.20 0309 v2,2026-04-07,xAI,True,False,nine,2026H1,2026Q2
+gemini-2-5-flash-preview-09-2025-reasoning,Gemini 2.5 Flash Preview (Sep '25) (Reasoning),Gemini 2.5 Flash (Sep),2025-09-25,Google,True,False,nine,2025H2,2025Q3
+falcon-h1r-7b,Falcon-H1R-7B,Falcon-H1R-7B,2026-01-04,TII UAE,True,True,nine,2026H1,2026Q1
+gpt-5-5-low,GPT-5.5 (low),GPT-5.5 (low),2026-04-23,OpenAI,True,False,nine,2026H1,2026Q2
+step-3-5-flash-0202,Step 3.5 Flash,Step 3.5 Flash,2026-02-02,StepFun,True,True,nine,2026H1,2026Q1
+glm-4-7-flash-non-reasoning,GLM-4.7-Flash (Non-reasoning),GLM-4.7-Flash,2026-01-19,Z AI,False,True,nine,2026H1,2026Q1
+olmo-3-32b-think,Olmo 3 32B Think,Olmo 3 32B Think,2025-11-20,Allen Institute for AI,True,True,nine,2025H2,2025Q4
+qwen3-next-80b-a3b-reasoning,Qwen3 Next 80B A3B (Reasoning),Qwen3 Next 80B A3B,2025-09-11,Alibaba,True,True,nine,2025H2,2025Q3
+gpt-oss-120b-low,gpt-oss-120b (low),gpt-oss-120b (low),2025-08-05,OpenAI,True,True,nine,2025H2,2025Q3
+qwen3-max-thinking-preview,Qwen3 Max Thinking (Preview),Qwen3 Max Thinking (Preview),2025-11-03,Alibaba,True,False,nine,2025H2,2025Q4
+devstral-small-2505,Devstral Small (May '25),Devstral Small (May),2025-05-21,Mistral,False,True,nine,2025H1,2025Q2
+gemma-4-31b,Gemma 4 31B (Reasoning),Gemma 4 31B,2026-04-02,Google,True,True,nine,2026H1,2026Q2
+claude-fable-5,"Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",Claude Fable 5 (with fallback),2026-06-09,Anthropic,True,False,nine,2026H1,2026Q2
+qwen3-vl-30b-a3b-reasoning,Qwen3 VL 30B A3B (Reasoning),Qwen3 VL 30B A3B,2025-10-03,Alibaba,True,True,nine,2025H2,2025Q4
+devstral-small-2,Devstral Small 2,Devstral Small 2,2025-12-09,Mistral,False,True,nine,2025H2,2025Q4
+llama-3-1-nemotron-ultra-253b-v1-reasoning,Llama 3.1 Nemotron Ultra 253B v1 (Reasoning),Llama Nemotron Ultra,2025-04-07,NVIDIA,True,True,nine,2025H1,2025Q2
+claude-4-sonnet,Claude 4 Sonnet (Non-reasoning),Claude 4 Sonnet,2025-05-22,Anthropic,False,False,nine,2025H1,2025Q2
+gemma-4-31b-non-reasoning,Gemma 4 31B (Non-reasoning),Gemma 4 31B,2026-04-02,Google,False,True,nine,2026H1,2026Q2
+gpt-5-1-non-reasoning,GPT-5.1 (Non-reasoning),GPT-5.1,2025-11-13,OpenAI,False,False,nine,2025H2,2025Q4
+gemini-3-pro,Gemini 3 Pro Preview (high),Gemini 3 Pro Preview (high),2025-11-18,Google,True,False,nine,2025H2,2025Q4
+gemma-3-1b,Gemma 3 1B Instruct,Gemma 3 1B,2025-03-13,Google,False,True,nine,2025H1,2025Q1
+glm-4-6v-reasoning,GLM-4.6V (Reasoning),GLM-4.6V,2025-12-08,Z AI,True,True,nine,2025H2,2025Q4
+minicpm5-1b-non-reasoning,MiniCPM5-1B (Non-reasoning),MiniCPM5-1B,2026-05-25,OpenBMB,False,True,nine,2026H1,2026Q2
+qwen3-vl-32b-reasoning,Qwen3 VL 32B (Reasoning),Qwen3 VL 32B,2025-10-21,Alibaba,True,True,nine,2025H2,2025Q4
+hermes-4-llama-3-1-405b,Hermes 4 - Llama-3.1 405B (Non-reasoning),Hermes 4 405B,2025-08-27,Nous Research,False,True,nine,2025H2,2025Q3
+granite-4-1-30b,Granite 4.1 30B,Granite 4.1 30B,2026-04-29,IBM,False,True,nine,2026H1,2026Q2
+gpt-5-4-nano,GPT-5.4 nano (xhigh),GPT-5.4 nano (xhigh),2026-03-17,OpenAI,True,False,nine,2026H1,2026Q1
+qwen3-vl-235b-a22b-instruct,Qwen3 VL 235B A22B Instruct,Qwen3 VL 235B A22B,2025-09-23,Alibaba,False,True,nine,2025H2,2025Q3
+deepseek-v3-2-reasoning,DeepSeek V3.2 (Reasoning),DeepSeek V3.2,2025-12-01,DeepSeek,True,True,nine,2025H2,2025Q4
+exaone-4-0-1-2b-reasoning,Exaone 4.0 1.2B (Reasoning),Exaone 4.0 1.2B,2025-07-15,LG AI Research,True,True,nine,2025H2,2025Q3
+gemma-4-e4b,Gemma 4 E4B (Reasoning),Gemma 4 E4B,2026-04-03,Google,True,True,nine,2026H1,2026Q2
+deepseek-v4-flash,"DeepSeek V4 Flash (Reasoning, Max Effort)",DeepSeek V4 Flash (max),2026-04-24,DeepSeek,True,True,nine,2026H1,2026Q2
+claude-3-7-sonnet,Claude 3.7 Sonnet (Non-reasoning),Claude 3.7 Sonnet,2025-02-24,Anthropic,False,False,nine,2025H1,2025Q1
+qwen3-coder-30b-a3b-instruct,Qwen3 Coder 30B A3B Instruct,Qwen3 Coder 30B A3B,2025-07-31,Alibaba,False,True,nine,2025H2,2025Q3
+k2-v2-low,K2-V2 (low),K2-V2 (low),2025-12-05,MBZUAI Institute of Foundation Models,True,True,nine,2025H2,2025Q4
+granite-4-0-h-nano-1b,Granite 4.0 H 1B,Granite 4.0 H 1B,2025-10-28,IBM,False,True,nine,2025H2,2025Q4
+reka-flash-3,Reka Flash 3,Reka Flash 3,2025-03-10,Reka AI,True,True,nine,2025H1,2025Q1
+mistral-medium-3-5,Mistral Medium 3.5,Mistral Medium 3.5,2026-04-29,Mistral,True,True,nine,2026H1,2026Q2
+k2-v2-medium,K2-V2 (medium),K2-V2 (medium),2025-12-05,MBZUAI Institute of Foundation Models,True,True,nine,2025H2,2025Q4
+qwen3-vl-8b-reasoning,Qwen3 VL 8B (Reasoning),Qwen3 VL 8B,2025-10-14,Alibaba,True,True,nine,2025H2,2025Q4
+mi-dm-k-2-5-pro-dec28,Mi:dm K 2.5 Pro,Mi:dm K 2.5 Pro,2025-12-11,Korea Telecom,True,False,nine,2025H2,2025Q4
+claude-sonnet-4-6-adaptive,"Claude Sonnet 4.6 (Adaptive Reasoning, Max Effort)",Claude Sonnet 4.6 (max),2026-02-17,Anthropic,True,False,nine,2026H1,2026Q1
+deepseek-v3-1-terminus,DeepSeek V3.1 Terminus (Non-reasoning),DeepSeek V3.1 Terminus,2025-09-22,DeepSeek,False,True,nine,2025H2,2025Q3
+midm-250-pro-rsnsft,Mi:dm K 2.5 Pro Preview,Mi:dm K 2.5 Pro Preview,2025-12-11,Korea Telecom,True,False,nine,2025H2,2025Q4
+gpt-5-nano,GPT-5 nano (high),GPT-5 nano (high),2025-08-07,OpenAI,True,False,nine,2025H2,2025Q3
+llama-nemotron-super-49b-v1-5-reasoning,Llama Nemotron Super 49B v1.5 (Reasoning),Llama Nemotron Super 49B v1.5,2025-07-25,NVIDIA,True,True,nine,2025H2,2025Q3
+lfm2-5-8b-a1b,LFM2.5-8B-A1B,LFM2.5-8B-A1B,2026-05-28,Liquid AI,True,True,nine,2026H1,2026Q2
+gpt-5-5-instant-05-26,GPT-5.5 Instant (May 2026),GPT-5.5 Instant (May 2026),2026-05-05,OpenAI,True,False,nine,2026H1,2026Q2
+nova-premier,Nova Premier,Nova Premier,2025-04-30,Amazon,False,False,nine,2025H1,2025Q2
+claude-opus-4-7,"Claude Opus 4.7 (Adaptive Reasoning, Max Effort)",Claude Opus 4.7 (max),2026-04-16,Anthropic,True,False,nine,2026H1,2026Q2
+ring-2-6-1t,Ring-2.6-1T,Ring-2.6-1T,2026-05-08,InclusionAI,True,True,nine,2026H1,2026Q2
+solar-pro-2-reasoning,Solar Pro 2 (Reasoning),Solar Pro 2,2025-07-09,Upstage,True,False,nine,2025H2,2025Q3
+muse-spark,Muse Spark,Muse Spark,2026-04-08,Meta,True,False,nine,2026H1,2026Q2
+qwen3-14b-instruct,Qwen3 14B (Non-reasoning),Qwen3 14B,2025-04-28,Alibaba,False,True,nine,2025H1,2025Q2
+phi-4,Phi-4,Phi-4,2024-12-12,Microsoft,False,True,nine,2024H2,2024Q4
+qwen3-5-35b-a3b-non-reasoning,Qwen3.5 35B A3B (Non-reasoning),Qwen3.5 35B A3B,2026-02-24,Alibaba,False,True,nine,2026H1,2026Q1
+gpt-oss-120b,gpt-oss-120b (high),gpt-oss-120b (high),2025-08-05,OpenAI,True,True,nine,2025H2,2025Q3
+glm-5-non-reasoning,GLM-5 (Non-reasoning),GLM-5,2026-02-11,Z AI,False,True,nine,2026H1,2026Q1
+nvidia-nemotron-nano-9b-v2-reasoning,NVIDIA Nemotron Nano 9B V2 (Reasoning),NVIDIA Nemotron Nano 9B V2,2025-08-18,NVIDIA,True,True,nine,2025H2,2025Q3
+claude-sonnet-4-6-non-reasoning-low-effort,"Claude Sonnet 4.6 (Non-reasoning, Low Effort)","Claude Sonnet 4.6 (Non-reasoning, Low Effort)",2026-02-17,Anthropic,False,False,nine,2026H1,2026Q1
+qwen3-30b-a3b-instruct,Qwen3 30B A3B (Non-reasoning),Qwen3 30B,2025-04-28,Alibaba,False,True,nine,2025H1,2025Q2
+qwen3-6-plus,Qwen3.6 Plus,Qwen3.6 Plus,2026-04-02,Alibaba,True,False,nine,2026H1,2026Q2
+nova-2-0-pro-reasoning-low,Nova 2.0 Pro Preview (low),Nova 2.0 Pro Preview (low),2025-11-27,Amazon,True,False,nine,2025H2,2025Q4
+gemini-2-5-flash-lite-reasoning,Gemini 2.5 Flash-Lite (Reasoning),Gemini 2.5 Flash-Lite,2025-06-17,Google,True,False,nine,2025H1,2025Q2
+qwen3-vl-4b-instruct,Qwen3 VL 4B Instruct,Qwen3 VL 4B,2025-10-14,Alibaba,False,True,nine,2025H2,2025Q4
+qwen3-235b-a22b-instruct-2507-reasoning,Qwen3 235B A22B 2507 (Reasoning),Qwen3 235B A22B 2507,2025-07-25,Alibaba,True,True,nine,2025H2,2025Q3
+minimax-m2,MiniMax-M2,MiniMax-M2,2025-10-26,MiniMax,True,True,nine,2025H2,2025Q4
+jamba-reasoning-3b,Jamba Reasoning 3B,Jamba Reasoning 3B,2025-10-08,AI21 Labs,True,True,nine,2025H2,2025Q4
+glm-5-2,GLM-5.2 (max),GLM-5.2 (max),2026-06-16,Z AI,True,True,nine,2026H1,2026Q2
+qwen3-vl-4b-reasoning,Qwen3 VL 4B (Reasoning),Qwen3 VL 4B,2025-10-14,Alibaba,True,True,nine,2025H2,2025Q4
+deepseek-v3-1,DeepSeek V3.1 (Non-reasoning),DeepSeek V3.1,2025-08-21,DeepSeek,False,True,nine,2025H2,2025Q3
+lfm2-24b-a2b,LFM2 24B A2B,LFM2 24B A2B,2026-02-25,Liquid AI,False,True,nine,2026H1,2026Q1
+nova-2-0-lite-reasoning-medium,Nova 2.0 Lite (medium),Nova 2.0 Lite (medium),2025-10-29,Amazon,True,False,nine,2025H2,2025Q4
+qwen3-coder-next,Qwen3 Coder Next,Qwen3 Coder Next,2026-02-03,Alibaba,False,True,nine,2026H1,2026Q1
+gpt-5-1-codex-mini,GPT-5.1 Codex mini (high),GPT-5.1 Codex mini (high),2025-11-13,OpenAI,True,False,nine,2025H2,2025Q4
+grok-4-3-low,Grok 4.3 (low),Grok 4.3 (low),2026-04-30,xAI,True,False,nine,2026H1,2026Q2
+gemma-4-12b,Gemma 4 12B (Reasoning),Gemma 4 12B,2026-06-03,Google,True,True,nine,2026H1,2026Q2
+grok-3-mini-reasoning,Grok 3 mini Reasoning (high),Grok 3 mini Reasoning (high),2025-02-19,xAI,True,False,nine,2025H1,2025Q1
+gemini-3-5-flash,Gemini 3.5 Flash (high),Gemini 3.5 Flash,2026-05-19,Google,True,False,twelve,2026H1,2026Q2
+mimo-v2-5-pro,MiMo-V2.5-Pro,MiMo-V2.5-Pro,2026-04-22,Xiaomi,True,True,twelve,2026H1,2026Q2
+claude-3-5-haiku,Claude 3.5 Haiku,Claude 3.5 Haiku,2024-10-22,Anthropic,False,False,twelve,2024H2,2024Q4
+mistral-medium-3-1,Mistral Medium 3.1,Mistral Medium 3.1,2025-08-12,Mistral,False,False,twelve,2025H2,2025Q3
+o3-mini-high,o3-mini (high),o3-mini (high),2025-01-31,OpenAI,True,False,twelve,2025H1,2025Q1
+devstral-2,Devstral 2,Devstral 2,2025-12-09,Mistral,False,True,twelve,2025H2,2025Q4
+nova-2-0-pro-reasoning-medium,Nova 2.0 Pro Preview (medium),Nova 2.0 Pro Preview (medium),2025-11-27,Amazon,True,False,twelve,2025H2,2025Q4
+kimi-k2-6,Kimi K2.6,Kimi K2.6,2026-04-20,Kimi,True,True,twelve,2026H1,2026Q2
+deepseek-r1-0120,DeepSeek R1 (Jan '25),DeepSeek R1 (Jan),2025-01-20,DeepSeek,True,True,twelve,2025H1,2025Q1
+qwen3-5-397b-a17b,Qwen3.5 397B A17B (Reasoning),Qwen3.5 397B A17B,2026-02-16,Alibaba,True,True,twelve,2026H1,2026Q1
+gpt-5-5,GPT-5.5 (xhigh),GPT-5.5 (xhigh),2026-04-23,OpenAI,True,False,twelve,2026H1,2026Q2
+qwen3-5-122b-a10b,Qwen3.5 122B A10B (Reasoning),Qwen3.5 122B A10B,2026-02-24,Alibaba,True,True,twelve,2026H1,2026Q1
+mistral-small-3-1,Mistral Small 3.1,Mistral Small 3.1,2025-03-17,Mistral,False,True,twelve,2025H1,2025Q1
+gemini-2-5-pro,Gemini 2.5 Pro,Gemini 2.5 Pro,2025-06-05,Google,True,False,twelve,2025H1,2025Q2
+minimax-m3,MiniMax-M3,MiniMax-M3,2026-06-01,MiniMax,True,True,twelve,2026H1,2026Q2
+gpt-5-mini,GPT-5 mini (high),GPT-5 mini (high),2025-08-07,OpenAI,True,False,twelve,2025H2,2025Q3
+gemma-3-27b,Gemma 3 27B Instruct,Gemma 3 27B,2025-03-12,Google,False,True,twelve,2025H1,2025Q1
+qwen3-5-9b,Qwen3.5 9B (Reasoning),Qwen3.5 9B,2026-03-02,Alibaba,True,True,twelve,2026H1,2026Q1
+gemma-3-12b,Gemma 3 12B Instruct,Gemma 3 12B,2025-03-12,Google,False,True,twelve,2025H1,2025Q1
+command-a-plus,Command A+,Command A+,2026-05-20,Cohere,True,True,twelve,2026H1,2026Q2
+gpt-oss-20b,gpt-oss-20b (high),gpt-oss-20b (high),2025-08-05,OpenAI,True,True,twelve,2025H2,2025Q3
+qwen3-6-27b-non-reasoning,Qwen3.6 27B (Non-reasoning),Qwen3.6 27B,2026-04-22,Alibaba,False,True,twelve,2026H1,2026Q2
+mistral-small-4,Mistral Small 4 (Reasoning),Mistral Small 4,2026-03-16,Mistral,True,True,twelve,2026H1,2026Q1
+minicpm-v4-6-1-3b,MiniCPM-V 4.6 1.3B,MiniCPM-V 4.6 1.3B,2026-05-11,OpenBMB,False,True,twelve,2026H1,2026Q2
+mistral-small-3-2,Mistral Small 3.2,Mistral Small 3.2,2025-06-20,Mistral,False,True,twelve,2025H1,2025Q2
+deepseek-v3,DeepSeek V3 (Dec '24),DeepSeek V3 (Dec),2024-12-26,DeepSeek,False,True,twelve,2024H2,2024Q4
+qwen3-14b-instruct-reasoning,Qwen3 14B (Reasoning),Qwen3 14B,2025-04-28,Alibaba,True,True,twelve,2025H1,2025Q2
+gpt-5,GPT-5 (high),GPT-5 (high),2025-08-07,OpenAI,True,False,twelve,2025H2,2025Q3
+mistral-large-3,Mistral Large 3,Mistral Large 3,2025-12-02,Mistral,False,True,twelve,2025H2,2025Q4
+minimax-m2-7,MiniMax-M2.7,MiniMax-M2.7,2026-03-18,MiniMax,True,True,twelve,2026H1,2026Q1
+gpt-5-1,GPT-5.1 (high),GPT-5.1 (high),2025-11-13,OpenAI,True,False,twelve,2025H2,2025Q4
+gemini-3-1-flash-lite-preview,Gemini 3.1 Flash-Lite,Gemini 3.1 Flash-Lite,2026-03-03,Google,True,False,twelve,2026H1,2026Q1
+k2-think-v2,K2 Think V2,K2 Think V2,2025-12-15,MBZUAI Institute of Foundation Models,True,True,twelve,2025H2,2025Q4
+glm-5-1,GLM-5.1 (Reasoning),GLM-5.1,2026-04-07,Z AI,True,True,twelve,2026H1,2026Q2
+nvidia-nemotron-3-ultra-550b-a55b,Nemotron 3 Ultra 550B A55B (Reasoning),Nemotron 3 Ultra,2026-06-04,NVIDIA,True,True,twelve,2026H1,2026Q2
+qwen3-30b-a3b-2507-reasoning,Qwen3 30B A3B 2507 (Reasoning),Qwen3 30B A3B 2507,2025-07-30,Alibaba,True,True,twelve,2025H2,2025Q3
+nova-2-0-lite-reasoning,Nova 2.0 Lite (high),Nova 2.0 Lite (high),2025-10-29,Amazon,True,False,twelve,2025H2,2025Q4
+nvidia-nemotron-3-super-120b-a12b,NVIDIA Nemotron 3 Super 120B A12B (Reasoning),NVIDIA Nemotron 3 Super,2026-03-11,NVIDIA,True,True,twelve,2026H1,2026Q1
+ministral-3-3b,Ministral 3 3B,Ministral 3 3B,2025-12-02,Mistral,False,True,twelve,2025H2,2025Q4
+qwen3-7-max,Qwen3.7 Max,Qwen3.7 Max,2026-05-19,Alibaba,True,False,twelve,2026H1,2026Q2
+gpt-5-5-medium,GPT-5.5 (medium),GPT-5.5 (medium),2026-04-23,OpenAI,True,False,twelve,2026H1,2026Q2
+step-3-7-flash,Step 3.7 Flash,Step 3.7 Flash,2026-05-29,StepFun,True,True,twelve,2026H1,2026Q2
+gemma-4-26b-a4b,Gemma 4 26B A4B (Reasoning),Gemma 4 26B A4B,2026-04-02,Google,True,True,twelve,2026H1,2026Q2
+gpt-5-5-non-reasoning,GPT-5.5 (Non-reasoning),GPT-5.5 (Non-reasoning),2026-04-23,OpenAI,False,False,twelve,2026H1,2026Q2
+glm-4-7,GLM-4.7 (Reasoning),GLM-4.7,2025-12-22,Z AI,True,True,twelve,2025H2,2025Q4
+magistral-small-2509,Magistral Small 1.2,Magistral Small 1.2,2025-09-17,Mistral,True,True,twelve,2025H2,2025Q3
+ministral-3-14b,Ministral 3 14B,Ministral 3 14B,2025-12-02,Mistral,False,True,twelve,2025H2,2025Q4
+gpt-4-1-nano,GPT-4.1 nano,GPT-4.1 nano,2025-04-14,OpenAI,False,False,twelve,2025H1,2025Q2
+llama-3-1-instruct-8b,Llama 3.1 Instruct 8B,Llama 3.1 8B,2024-07-23,Meta,False,True,twelve,2024H2,2024Q3
+deepseek-v3-0324,DeepSeek V3 0324,DeepSeek V3 0324,2025-03-25,DeepSeek,False,True,twelve,2025H1,2025Q1
+nvidia-nemotron-3-nano-30b-a3b-reasoning,NVIDIA Nemotron 3 Nano 30B A3B (Reasoning),NVIDIA Nemotron 3 Nano,2025-12-15,NVIDIA,True,True,twelve,2025H2,2025Q4
+mimo-v2-flash,MiMo-V2-Flash (Non-reasoning),MiMo-V2-Flash,2025-12-16,Xiaomi,False,True,twelve,2025H2,2025Q4
+magistral-medium-2509,Magistral Medium 1.2,Magistral Medium 1.2,2025-09-18,Mistral,True,False,twelve,2025H2,2025Q3
+qwen3-6-35b-a3b,Qwen3.6 35B A3B (Reasoning),Qwen3.6 35B A3B,2026-04-16,Alibaba,True,True,twelve,2026H1,2026Q2
+qwen3-6-27b,Qwen3.6 27B (Reasoning),Qwen3.6 27B,2026-04-22,Alibaba,True,True,twelve,2026H1,2026Q2
+kimi-k2-7-code,Kimi K2.7 Code,Kimi K2.7 Code,2026-06-12,Kimi,True,True,twelve,2026H1,2026Q2
+grok-4-3-non-reasoning,Grok 4.3 (Non-reasoning),Grok 4.3 (Non-reasoning),2026-04-30,xAI,False,False,twelve,2026H1,2026Q2
+claude-4-5-sonnet-thinking,Claude 4.5 Sonnet (Reasoning),Claude 4.5 Sonnet,2025-09-29,Anthropic,True,False,twelve,2025H2,2025Q3
+granite-4-1-3b,Granite 4.1 3B,Granite 4.1 3B,2026-04-29,IBM,False,True,twelve,2026H1,2026Q2
+llama-4-maverick,Llama 4 Maverick,Llama 4 Maverick,2025-04-05,Meta,False,True,twelve,2025H1,2025Q2
+grok-4-3,Grok 4.3 (high),Grok 4.3 (high),2026-04-30,xAI,True,False,twelve,2026H1,2026Q2
+ministral-3-8b,Ministral 3 8B,Ministral 3 8B,2025-12-02,Mistral,False,True,twelve,2025H2,2025Q4
+llama-3-3-instruct-70b,Llama 3.3 Instruct 70B,Llama 3.3 70B,2024-12-06,Meta,False,True,twelve,2024H2,2024Q4
+claude-opus-4-8,"Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",Claude Opus 4.8 (max),2026-05-28,Anthropic,True,False,twelve,2026H1,2026Q2
+qwen3-8b-instruct-reasoning,Qwen3 8B (Reasoning),Qwen3 8B,2025-04-28,Alibaba,True,True,twelve,2025H1,2025Q2
+gpt-4-1-mini,GPT-4.1 mini,GPT-4.1 mini,2025-04-14,OpenAI,False,False,twelve,2025H1,2025Q2
+nova-2-0-pro,Nova 2.0 Pro Preview (Non-reasoning),Nova 2.0 Pro Preview,2025-11-27,Amazon,False,False,twelve,2025H2,2025Q4
+claude-4-5-haiku-reasoning,Claude 4.5 Haiku (Reasoning),Claude 4.5 Haiku,2025-10-15,Anthropic,True,False,twelve,2025H2,2025Q4
+claude-4-sonnet-thinking,Claude 4 Sonnet (Reasoning),Claude 4 Sonnet,2025-05-22,Anthropic,True,False,twelve,2025H1,2025Q2
+qwen3-7-plus,Qwen3.7 Plus,Qwen3.7 Plus,2026-06-01,Alibaba,True,False,twelve,2026H1,2026Q2
+gpt-5-4,GPT-5.4 (xhigh),GPT-5.4 (xhigh),2026-03-05,OpenAI,True,False,twelve,2026H1,2026Q1
+llama-4-scout,Llama 4 Scout,Llama 4 Scout,2025-04-05,Meta,False,True,twelve,2025H1,2025Q2
+qwen3-32b-instruct-reasoning,Qwen3 32B (Reasoning),Qwen3 32B,2025-04-28,Alibaba,True,True,twelve,2025H1,2025Q2
+gpt-5-5-high,GPT-5.5 (high),GPT-5.5 (high),2026-04-23,OpenAI,True,False,twelve,2026H1,2026Q2
+solar-pro-3,Solar Pro 3,Solar Pro 3,2026-04-06,Upstage,True,False,twelve,2026H1,2026Q2
+gpt-5-4-mini,GPT-5.4 mini (xhigh),GPT-5.4 mini (xhigh),2026-03-17,OpenAI,True,False,twelve,2026H1,2026Q1
+gemini-3-1-pro-preview,Gemini 3.1 Pro Preview,Gemini 3.1 Pro Preview,2026-02-19,Google,True,False,twelve,2026H1,2026Q1
+deepseek-v4-pro,"DeepSeek V4 Pro (Reasoning, Max Effort)",DeepSeek V4 Pro (max),2026-04-24,DeepSeek,True,True,twelve,2026H1,2026Q2
+gpt-5-5-low,GPT-5.5 (low),GPT-5.5 (low),2026-04-23,OpenAI,True,False,twelve,2026H1,2026Q2
+qwen3-next-80b-a3b-reasoning,Qwen3 Next 80B A3B (Reasoning),Qwen3 Next 80B A3B,2025-09-11,Alibaba,True,True,twelve,2025H2,2025Q3
+gemma-4-31b,Gemma 4 31B (Reasoning),Gemma 4 31B,2026-04-02,Google,True,True,twelve,2026H1,2026Q2
+claude-fable-5,"Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",Claude Fable 5 (with fallback),2026-06-09,Anthropic,True,False,twelve,2026H1,2026Q2
+devstral-small-2,Devstral Small 2,Devstral Small 2,2025-12-09,Mistral,False,True,twelve,2025H2,2025Q4
+granite-4-1-30b,Granite 4.1 30B,Granite 4.1 30B,2026-04-29,IBM,False,True,twelve,2026H1,2026Q2
+gpt-5-4-nano,GPT-5.4 nano (xhigh),GPT-5.4 nano (xhigh),2026-03-17,OpenAI,True,False,twelve,2026H1,2026Q1
+deepseek-v4-flash,"DeepSeek V4 Flash (Reasoning, Max Effort)",DeepSeek V4 Flash (max),2026-04-24,DeepSeek,True,True,twelve,2026H1,2026Q2
+mistral-medium-3-5,Mistral Medium 3.5,Mistral Medium 3.5,2026-04-29,Mistral,True,True,twelve,2026H1,2026Q2
+claude-sonnet-4-6-adaptive,"Claude Sonnet 4.6 (Adaptive Reasoning, Max Effort)",Claude Sonnet 4.6 (max),2026-02-17,Anthropic,True,False,twelve,2026H1,2026Q1
+claude-opus-4-7,"Claude Opus 4.7 (Adaptive Reasoning, Max Effort)",Claude Opus 4.7 (max),2026-04-16,Anthropic,True,False,twelve,2026H1,2026Q2
+ring-2-6-1t,Ring-2.6-1T,Ring-2.6-1T,2026-05-08,InclusionAI,True,True,twelve,2026H1,2026Q2
+muse-spark,Muse Spark,Muse Spark,2026-04-08,Meta,True,False,twelve,2026H1,2026Q2
+gpt-oss-120b,gpt-oss-120b (high),gpt-oss-120b (high),2025-08-05,OpenAI,True,True,twelve,2025H2,2025Q3
+qwen3-6-plus,Qwen3.6 Plus,Qwen3.6 Plus,2026-04-02,Alibaba,True,False,twelve,2026H1,2026Q2
+nova-2-0-pro-reasoning-low,Nova 2.0 Pro Preview (low),Nova 2.0 Pro Preview (low),2025-11-27,Amazon,True,False,twelve,2025H2,2025Q4
+qwen3-235b-a22b-instruct-2507-reasoning,Qwen3 235B A22B 2507 (Reasoning),Qwen3 235B A22B 2507,2025-07-25,Alibaba,True,True,twelve,2025H2,2025Q3
+glm-5-2,GLM-5.2 (max),GLM-5.2 (max),2026-06-16,Z AI,True,True,twelve,2026H1,2026Q2

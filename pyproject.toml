@@ -1,0 +1,9 @@
+[project]
+name = "public-gai"
+version = "0.1.0"
+description = "Public LLM benchmark structure, release-cohort PCA rotation and factor analysis"
+requires-python = ">=3.12"
+dependencies = ["numpy>=2.0", "scipy>=1.14", "matplotlib>=3.9", "pyarrow>=17"]
+
+[tool.uv]
+package = false

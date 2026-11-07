@@ -1,0 +1,12 @@
+{
+  "tests": 43,
+  "failures": 0,
+  "draws_per_null_sampling_case": 2000,
+  "cohort_pcas_admissible": 96000,
+  "simulation_failures": 0,
+  "minimum_simulated_gap": 0.577490276034415,
+  "checks": "input/code hashes; exact fixed-size counts; source angle identity; vector norms; spectrum preservation; angle/congruence equivalence",
+  "plot_code_sha256": "f7ab5b02fbdec563e68ffb86f98ff2a7d7e016ee9f59b867f848e2edccbd9460",
+  "tests_sha256": "527815fdb144594495818274dcc1c56659ff06e9a84c216b0a840ebbec606dc1",
+  "caveat": "finite-sample type-I error not independently validated; empirical null transforms alter margins"
+}

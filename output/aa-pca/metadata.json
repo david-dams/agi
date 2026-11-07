@@ -1,0 +1,57 @@
+{
+  "specification": {
+    "draws": 2000,
+    "seed": 20261027,
+    "cohorts": [
+      "2025H1",
+      "2025H2",
+      "2026H1"
+    ],
+    "batteries": {
+      "nine": [
+        "gpqa",
+        "hle",
+        "omniscience",
+        "tau2",
+        "ifbench",
+        "lcr",
+        "scicode",
+        "critpt",
+        "terminalbenchHard"
+      ],
+      "eight": [
+        "gpqa",
+        "hle",
+        "omniscience",
+        "tau2",
+        "ifbench",
+        "lcr",
+        "scicode",
+        "terminalbenchHard"
+      ]
+    },
+    "scaling": "one pooled mean and sample SD across all 387 complete configurations, frozen for all cases and bootstrap draws",
+    "centering": "within each cohort, including within bootstrap draws; covariance PCA, not uncentered second moments",
+    "direction": "unit PC1 eigenvector in common pooled units; covariance loadings differ only by scalar sqrt(eigenvalue)",
+    "sign": "align bootstrap direction to its cohort estimate; compare sign-invariant axes",
+    "bootstrap": "matched global named-base cluster draws; SeedSequence(seed, spawn_key=(0, replicate)) matches invariance study",
+    "admissibility": ">=3 rows, finite nonzero total variance, PC1-PC2 gap > 1e-8 times PC1; no full-rank requirement; intervals withheld below 90%",
+    "interpretation": "descriptive directional similarity, not a latent-construct identity, equivalence or CFA invariance test"
+  },
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "numpy": "2.5.1",
+  "configurations": 387,
+  "named_bases": 279,
+  "input_hashes": {
+    "output/aa-cohort/matrix.csv": "d7a36c5596208af6ebf498f21216c07e6f8d39e8a3f6ca87312f56addb80405d",
+    "output/aa-cohort/configurations.csv": "397dfb2206cab3638e92764d3e246a231ea9dc49e80047e44d3e22246dd71344"
+  },
+  "code_hashes": {
+    "aa_cohort_pca.py": "3b9bc91c77218c706054ce8c6b2bc19d7031b69e0875894fe74ed86c1023b2b9",
+    "aa_cohort_factor.py": "f9f107678a2e749b8bb6c03b10937ee978c247fe8984b0deb181c7773ce0a3e4",
+    "downloaded_data_audit.py": "897241ed26c7bfb0dc1f366dbc50c8f1cbd96df16a40b7cd502bbbe72c27a8d0"
+  },
+  "cohort_fits_attempted": 24000,
+  "cohort_fits_admissible": 24000,
+  "problems": 0
+}
