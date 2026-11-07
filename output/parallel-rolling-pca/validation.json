@@ -1,0 +1,13 @@
+{
+  "tests": 49,
+  "window_estimates_recomputed": 344,
+  "cluster_draws": 2000,
+  "min_paired_admissible": 2000,
+  "max_paired_admissible": 2000,
+  "figures_visually_checked": [
+    "rolling-pca.png",
+    "sensitivities.png",
+    "loadings.png"
+  ],
+  "plot_code_sha256": "e67805fed7b9bb71cf124e21d431c98518fd4626ae0628b62dd985a4396a509a"
+}

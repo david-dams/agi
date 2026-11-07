@@ -39,4 +39,18 @@ All existing public downloads have been moved here locally. Multi-GB raw downloa
 
 See [REPRODUCE.md](REPRODUCE.md) for all existing study commands, [DATA_SOURCES.md](DATA_SOURCES.md) for provenance and redistribution notes, and [MIGRATION.json](MIGRATION.json) for the extraction inventory. Archived hashes and logs describe original runs; they are not claims that those runs used the new repository layout.
 
-The numerical helper `factor_models.py` is a local copy shared historically with the internal study; this repo has no dependency on that study or its repository. No GitHub repository, remote, commit or publication has been created.
+The numerical helper `factor_models.py` is a local copy shared historically with the internal study; this repo has no dependency on that study or its repository.
+
+
+## Parallel rolling PCA
+
+[Findings and figures](output/parallel-rolling-pca/FINDINGS.md) compare separate AA, Epoch, Estonian and LiveBench release-date trajectories. Open LLM evaluation and unverified recorded timestamps appear on separate panels. Fixed benchmark panels are selected before nearest-50-base windows; the full run uses 2,000 matched cluster bootstrap draws per source.
+
+![Parallel rolling PCA](output/parallel-rolling-pca/rolling-pca.png)
+
+```bash
+OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 uv run python parallel_rolling_pca.py --resamples 2000
+uv run python plot_parallel_rolling_pca.py
+```
+
+Original raw inputs must be available locally to regenerate source panels. Exported matrices, memberships, scaling, bootstrap arrays and plots are included. Use `--out` to preserve the saved run. The early calendar range has coarse temporal resolution because adaptive windows borrow neighboring releases. Pointwise angle intervals are not a calibrated test of rotation or latent-intelligence change.

@@ -1,0 +1,16 @@
+source,status,detail
+Epoch,loaded,290 conflicting source cells excluded by existing audit
+LiveBench battery,table_2024_06_24,44 complete dated configurations
+LiveBench battery,table_2024_07_26,44 complete dated configurations
+LiveBench battery,table_2024_08_31,47 complete dated configurations
+LiveBench battery,table_2024_11_25,46 complete dated configurations
+LiveBench battery,table_2025_04_02,49 complete dated configurations
+LiveBench battery,table_2025_04_25,42 complete dated configurations
+LiveBench battery,table_2025_05_30,53 complete dated configurations
+LiveBench battery,table_2025_11_25,51 complete dated configurations
+LiveBench battery,table_2025_12_23,51 complete dated configurations
+LiveBench battery,table_2026_01_08,91 complete dated configurations (chosen)
+LiveBench battery,table_2026_06_25,20 complete dated configurations
+DataDecide / Pythia,outside calendar study,Training-step/checkpoint trajectories require a separate time axis.
+Arena,external validation,Preference ratings and changing opponents are not this fixed benchmark PCA.
+HELM / EEE,not added,Existing acquisition failures; no verified local fixed battery beyond the sources above.

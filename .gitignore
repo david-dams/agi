@@ -11,3 +11,7 @@ __pycache__/
 /feasibility/livebench/cache/
 *.log
 *.part
+
+# Large reproducible integration intermediates
+/output/integration-audit/observations.csv
+/output/integration-audit/pair_coverage.csv
